@@ -1,0 +1,1001 @@
+bookID,title,authors,average_rating,language_code,num_pages,text_reviews_count
+1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling/Mary GrandPré,4.57,eng,652,27591
+2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling/Mary GrandPré,4.49,eng,870,29221
+3,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling,4.42,eng,352,244
+4,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling/Mary GrandPré,4.56,eng,435,36325
+5,Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5),J.K. Rowling/Mary GrandPré,4.78,eng,2690,164
+6,"Unauthorized Harry Potter Book Seven News: ""Half-Blood Prince"" Analysis and Speculation",W. Frederick Zimmerman,3.74,en-US,152,1
+7,Harry Potter Collection (Harry Potter  #1-6),J.K. Rowling,4.73,eng,3342,808
+8,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,eng,815,254
+9,The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,eng,815,4080
+10,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams,4.22,eng,215,460
+11,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1),Douglas Adams/Stephen Fry,4.22,eng,6,253
+12,The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,eng,815,195
+13,A Short History of Nearly Everything,Bill Bryson,4.21,eng,544,9396
+14,Bill Bryson's African Diary,Bill Bryson,3.44,eng,55,499
+15,Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right,Bill Bryson,3.87,eng,256,131
+16,In a Sunburned Country,Bill Bryson,4.07,eng,335,4245
+17,I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away,Bill Bryson,3.9,eng,304,2211
+18,The Lost Continent: Travels in Small Town America,Bill Bryson,3.83,eng,299,2257
+19,Neither Here nor There: Travels in Europe,Bill Bryson,3.86,eng,254,2238
+20,Notes from a Small Island,Bill Bryson,3.91,eng,324,3301
+21,The Mother Tongue: English and How It Got That Way,Bill Bryson,3.93,eng,270,2085
+22,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.59,eng,1728,1550
+23,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien,4.5,eng,1184,91
+24,The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,4.36,eng,398,13670
+25,The Lord of the Rings (The Lord of the Rings  #1-3),J.R.R. Tolkien/Alan  Lee,4.5,en-US,1216,140
+26,The Lord of the Rings: Weapons and Warfare,Chris   Smith/Christopher  Lee/Richard Taylor,4.53,eng,218,46
+27,The Lord of the Rings: Complete Visual Companion,Jude Fisher,4.5,eng,224,6
+28,Agile Web Development with Rails: A Pragmatic Guide,Dave Thomas/David Heinemeier Hansson/Leon Breedt/Mike Clark/Thomas  Fuchs/Andreas  Schwarz,3.84,eng,558,59
+29,Hatchet (Brian's Saga  #1),Gary Paulsen,3.72,eng,208,12017
+30,"Hatchet: A Guide for Using ""Hatchet"" in the Classroom",Donna Ickes/Edward Sciranko/Keith Vasconcelles,4,eng,48,2
+31,Guts: The True Stories behind Hatchet and the Brian Books,Gary Paulsen,3.88,eng,144,334
+32,Molly Hatchet - 5 of the Best,Molly Hatchet,4.33,eng,56,0
+33,Hatchet Jobs: Writings on Contemporary Fiction,Dale Peck,3.45,en-US,228,16
+34,A Changeling for All Seasons (Changeling Seasons #1),Angela Knight/Sahara Kelly/Judy Mays/Marteeka Karland/Kate Douglas/Shelby Morgen/Lacey Savage/Kate Hill/Willa Okati,3.76,eng,304,4
+35,Changeling (Changeling  #1),Delia Sherman,3.6,eng,256,111
+36,The Changeling Sea,Patricia A. McKillip,4.06,eng,137,302
+37,The Changeling,Zilpha Keatley Snyder,4.17,eng,228,96
+38,The Changeling,Kate Horsley,3.55,eng,339,43
+39,The Changeling (Daughters of England  #15),Philippa Carr,3.98,eng,369,12
+40,The Known World,Edward P. Jones,3.83,eng,388,2626
+41,The Known World,Edward P. Jones/Kevin R. Free,3.83,en-US,14,12
+42,The Known World,Edward P. Jones,3.83,eng,576,3
+43,Traders  Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives,Satyajit Das,3.83,eng,334,82
+44,Artesia: Adventures in the Known World,Mark Smylie,4.13,eng,352,4
+45,The John McPhee Reader (John McPhee Reader  #1),John McPhee/William Howarth,4.42,eng,416,37
+46,Uncommon Carriers,John McPhee,3.95,en-US,248,203
+47,Heirs of General Practice,John McPhee,4.17,eng,128,22
+48,The Control of Nature,John McPhee,4.24,en-US,288,305
+49,Annals of the Former World,John McPhee,4.34,eng,720,228
+50,Coming Into the Country,John McPhee,4.22,eng,448,261
+51,La Place de la Concorde Suisse,John McPhee,3.92,fre,160,52
+52,Giving Good Weight,John McPhee,4.23,eng,288,36
+53,Rising from the Plains,John McPhee,4.23,eng,208,98
+54,The Heidi Chronicles,Wendy Wasserstein,3.75,eng,81,70
+55,The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic,Wendy Wasserstein,3.84,eng,249,64
+56,Active Literacy Across the Curriculum: Strategies for Reading  Writing  Speaking  and Listening,Heidi Hayes Jacobs,3.94,eng,138,1
+57,Simply Beautiful Beaded Jewelry,Heidi Boyd,3.77,en-US,128,4
+58,Always Enough: God's Miraculous Provision Among the Poorest Children on Earth,Heidi Baker/Rolland Baker,4.46,eng,192,53
+59,Mapping the Big Picture: Integrating Curriculum & Assessment K-12,Heidi Hayes Jacobs,3.68,en-US,108,2
+60,Heidi (Heidi  #1-2),Johanna Spyri/Beverly Cleary/Angelo  Rinaldi,3.99,eng,352,2257
+61,Getting Results with Curriculum Mapping,Heidi Hayes Jacobs,3.25,eng,192,5
+62,There's Always Enough: The Miraculous Move of God in Mozambique,Rolland Baker/Heidi Baker,4.46,eng,192,6
+63,What to Expect the First Year (What to Expect),Heidi Murkoff/Sharon Mazel/Arlene Eisenberg/Sandee Hathaway/Mark D. Widome,3.89,eng,832,659
+64,The Player's Handbook: The Ultimate Guide on Dating and Relationships,Heidi Fleiss/Libby Keatinge,3.82,eng,123,8
+65,Simply Beautiful Beading: 53 Quick and Easy Projects,Heidi Boyd,3.78,en-US,128,4
+66,God Emperor of Dune (Dune Chronicles  #4),Frank Herbert,3.84,eng,423,166
+67,Chapterhouse: Dune (Dune Chronicles #6),Frank Herbert,3.91,eng,436,568
+68,Dune Messiah (Dune Chronicles #2),Frank Herbert,3.88,eng,331,2359
+69,Dreamer of Dune: The Biography of Frank Herbert,Brian Herbert,4.01,en-US,592,21
+70,Heretics of Dune (Dune Chronicles  #5),Frank Herbert,3.86,eng,480,20
+71,The Road to Dune,Frank Herbert/Brian Herbert/Kevin J. Anderson,3.88,eng,426,83
+72,Heretics of Dune (Dune Chronicles #5),Frank Herbert,3.86,eng,471,644
+73,The Lord of the Rings: The Art of the Fellowship of the Ring,Gary Russell,4.59,eng,192,102
+74,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,eng,544,4551
+75,The Power of One (The Power of One  #1),Bryce Courtenay,4.35,eng,291,13
+76,The Power of One: One Person  One Rule  One Month,John C. Maxwell/Stephen R. Graves/Thomas G. Addington,4.28,en-US,256,1
+77,Power of an Hour: Business and Life Mastery in One Hour a Week,Dave Lakhani,3.34,eng,205,16
+78,The Power of One: The Solo Play for Playwrights  Actors  and Directors,Louis E. Catron,3.67,eng,240,0
+79,How to Buy  Sell & Profit on eBay: Kick-Start Your Home-Based Business in Just Thirty Days,Adam Ginsberg,3.48,eng,336,9
+80,eBay for Dummies,Marsha Collier,3.5,eng,386,9
+81,What to Sell on ebay and Where to Get It: The Definitive Guide to Product Sourcing for eBay and Beyond,Chris Malta/Lisa Suttora,3.62,eng,260,0
+82,Starting an eBay Business for Dummies,Marsha Collier,3.55,eng,384,4
+83,eBay: Top 100 Simplified Tips & Tricks,Julia Wilkinson,4.27,eng,260,0
+84,ebay Timesaving Techniques for Dummies,Marsha Collier,3.39,en-US,391,1
+85,eBay Business All-in-One Desk Reference for Dummies,Marsha Collier,3.89,en-US,864,3
+86,Ruby Cookbook,Lucas Carlson/Leonard Richardson,3.84,eng,873,4
+87,Ruby Ann's Down Home Trailer Park Cookbook,Ruby Ann Boxcar,4.12,eng,240,5
+88,Ruby Ann's Down Home Trailer Park BBQin' Cookbook,Ruby Ann Boxcar,4.08,eng,206,2
+89,Rails Cookbook: Recipes for Rapid Web Development with Ruby,Rob Orsini,3.48,eng,514,1
+90,Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky,4.05,eng,838,1851
+91,Anna Karenina,Leo Tolstoy/David Magarshack/Priscilla Meyer,4.05,eng,960,5696
+92,Anna Karenina,Leo Tolstoy/Richard Pevear/Larissa Volokhonsky/John Bayley,4.05,eng,837,309
+93,CliffsNotes on Tolstoy's Anna Karenina,Marianne Sturman/Leo Tolstoy,3.85,eng,80,3
+94,Anna Karenina,Leo Tolstoy/Amy Mandelker/Constance Garnett,4.05,eng,803,726
+95,Anna Karenina,Leo Tolstoy/Louise Maude/Aylmer Maude,4.05,eng,752,72
+96,Anna Karenina,Leo Tolstoy/Constance Garnett/Amy Mandelker,4.05,eng,803,48
+97,Dinner with Anna Karenina,Gloria Goldreich,2.99,eng,360,65
+98,Tolstoy: Anna Karenina,Anthony Thorlby,4.19,eng,128,33
+99,Untouchable,Mulk Raj Anand/E.M. Forster,3.71,eng,160,279
+100,The Untouchable,John Banville,3.95,eng,367,216
+101,The Untouchables,Eliot Ness/Oscar Fraley,3.89,eng,256,31
+102,Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India,Narendra Jadhav,3.82,en-US,320,40
+103,Dalit: The Black Untaouchables of India,V.T. Rajshekar/Y.N. Kly,4.2,eng,100,0
+104,Growing Up Untouchable in India: A Dalit Autobiography,Vasant Moon/Gail Omvedt/Eleanor Zelliot,3.65,eng,224,4
+105,The Evidence-Based Social Work Skills Book,Barry R. Cournoyer,3.4,eng,216,0
+106,"A Wrinkle in Time: A Guide for Using ""A Wrinkle in Time"" in the Classroom",John Carratello/Patty Carratello/Theresa Wright,4,eng,48,0
+107,Wrinkles in Time,George Smoot/Keay Davidson,4.01,eng,360,23
+108,A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1),Madeleine L'Engle,4,eng,250,6
+109,Literature Circle Guide: A Wrinkle in Time,Tara MacCarthy,3.6,eng,32,0
+110,Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,4,spa,205,1
+111,The Long Shadow (The Morland Dynasty  #6),Cynthia Harrod-Eagles,4.12,eng,367,17
+112,A Long Shadow (Inspector Ian Rutledge  #8),Charles Todd,4.11,eng,352,237
+113,Long Way Round: Chasing Shadows Across the World,Ewan McGregor/Charley Boorman/Robert Uhlig,3.94,en-US,320,44
+114,A Shadow in Summer (Long Price Quartet  #1),Daniel Abraham,3.6,eng,331,633
+115,New Hope for the Dead (Hoke Mosely #2),Charles Willeford/James Lee Burke,3.9,eng,244,78
+116,Sideswipe: A Hoke Moseley Novel,Charles Willeford/Lawrence Block,4.05,eng,215,72
+117,Miami Blues (Hoke Moseley #1),Charles Willeford/Elmore Leonard,3.94,eng,191,178
+118,The Burnt Orange Heresy (Vintage Crime/Black Lizard),Charles Willeford,3.89,eng,144,11
+119,I am Charlotte Simmons,Tom Wolfe,3.42,eng,738,1688
+120,Poetry for Young People: Edward Lear,Edward Lear/Laura Huliska-Beith/Edward Mendelson,3.91,eng,48,19
+121,The Puffin Book of Nonsense Verse,Quentin Blake,4.02,eng,287,6
+122,Henry Miller on Writing,Henry Miller/Thomas H. Moore,4.22,eng,217,52
+123,Quiet Days in Clichy,Henry Miller,3.69,eng,154,141
+124,Tropic of Cancer,Henry Miller/Jiří Níl,3.68,eng,318,2376
+125,Tropic of Capricorn,Henry Miller,3.78,eng,348,459
+126,Nexus (The Rosy Crucifixion  #3),Henry Miller,4.1,eng,316,58
+127,Sexus (The Rosy Crucifixion  #1),Henry Miller,3.98,eng,506,251
+128,The Air-Conditioned Nightmare,Henry Miller,3.83,eng,292,142
+129,The Portrait of a Lady,Henry James/Patricia Crick,3.78,eng,797,1951
+130,The Portrait of a Lady,Henry James/Gabriel Brownstein/Mary Cregan,3.78,eng,635,41
+131,Writing,Marguerite Duras,3.75,eng,91,44
+132,The War,Marguerite Duras/Barbara Bray,3.85,eng,192,65
+133,The Ravishing of Lol Stein,Marguerite Duras/Richard Seever,3.66,en-US,181,128
+134,Love Letters,Kahlil Gibran/Suheil Bushrui/Salma H. Al-Kuzbari,3.68,eng,178,8
+135,Kahlil Gibran: His Life and World,Jean Gibran/جبران خليل جبران/Kahlil Gibran,4.21,eng,464,2
+136,The Beloved: Reflections on the Path of the Heart,Kahlil Gibran/John Walbridge/Robin Waterfield,4.19,eng,102,16
+137,Jesus the Son of Man,Kahlil Gibran/جبران خليل جبران,3.98,eng,216,82
+138,The Broken Wings,Kahlil Gibran/جبران خليل جبران/Anthony Rizcallah Ferris,3.92,eng,132,517
+139,Sand and Foam,Kahlil Gibran/جبران خليل جبران,4.08,eng,100,217
+140,Treasure Island,Robert Louis Stevenson,3.83,eng,311,6734
+141,Treasure Island,Robert Louis Stevenson/Scott McKowen,3.83,en-US,213,42
+142,Treasure Island,Robert Louis Stevenson,3.83,eng,245,276
+143,Treasure Island,Robert Louis Stevenson/N.C. Wyeth/Timothy Meis,3.83,eng,64,14
+144,Treasure Island,Robert Louis Stevenson/Milo Winter,3.83,en-US,272,4
+145,Treasure Island (Great Illustrated Classics),Deidre S. Laiken/A.J. McAllister/Robert Louis Stevenson,4.05,eng,232,16
+146,100 Years of Lynchings,Ralph Ginzburg,4.61,eng,270,4
+147,Cien años de soledad,Gabriel García Márquez,4.07,spa,448,7
+148,On Beyond Zebra!,Dr. Seuss,4.04,eng,64,164
+149,The Wedding Clause,Debbie Raleigh,3.6,eng,256,13
+150,The Zebra Wall,Kevin Henkes,3.44,eng,147,24
+151,El perfume: Historia de un asesino,Patrick Süskind,4.02,spa,239,255
+152,The Door Into Summer,Robert A. Heinlein,4.01,eng,304,649
+153,Stranger in a Strange Land,Robert A. Heinlein,3.92,eng,528,6241
+154,To Sail Beyond the Sunset,Robert A. Heinlein,3.87,en-US,434,193
+155,Job: A Comedy of Justice,Robert A. Heinlein,3.78,en-US,439,438
+156,Time for the Stars (Heinlein's Juveniles  #10),Robert A. Heinlein,3.97,eng,256,200
+157,The Long Dark Tea-Time of the Soul (Dirk Gently  #2),Douglas Adams,4.06,en-US,307,1401
+158,The Salmon of Doubt (Dirk Gently  #3),Douglas Adams,3.93,eng,298,746
+159,Wish You Were Here: The Official Biography of Douglas Adams,Nick  Webb,4.14,eng,368,49
+160,Douglas Adams's Starship Titanic,Terry Jones,3.6,eng,256,84
+161,Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams/Christopher Cerf,3.93,eng,336,0
+162,The Phantom Tollbooth: A Children's Play in Two Acts,Susan Nanus/Norton Juster,4.13,eng,72,13
+163,On Bullshit,Harry G. Frankfurt,3.57,eng,67,995
+164,Another Bullshit Night in Suck City,Nick Flynn,3.78,eng,347,907
+165,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,4.14,en-US,317,15
+166,The Gettysburg Address,Abraham Lincoln/Michael McCurdy,4.53,eng,32,76
+167,Underworld,Don DeLillo,3.92,eng,827,175
+168,Libra,Don DeLillo,3.99,eng,480,564
+169,Americana,Don DeLillo,3.43,eng,377,55
+170,Running Dog,Don DeLillo,3.43,eng,256,72
+171,Cosmopolis,Don DeLillo,3.22,eng,224,41
+172,Great Jones Street,Don DeLillo,3.48,eng,272,145
+173,The Names,Don DeLillo,3.64,eng,339,212
+174,Against the Day,Thomas Pynchon,4.13,eng,1085,587
+175,V.,Thomas Pynchon,3.96,eng,547,177
+176,The Crying of Lot 49,Thomas Pynchon,3.69,eng,152,230
+177,Gravity's Rainbow,Thomas Pynchon,4.01,eng,784,213
+178,Mason & Dixon,Thomas Pynchon/Christophe Claro/Brice Matthieussent,4.07,eng,773,602
+179,Vineland,Thomas Pynchon,3.69,en-US,385,69
+180,Gravity's Rainbow,Thomas Pynchon,4.01,eng,776,2164
+181,Slow Learner: Early Stories,Thomas Pynchon,3.5,eng,193,34
+182,Been Down So Long It Looks Like Up To Me,Richard Fariña/Thomas Pynchon,3.8,eng,352,220
+183,The Year of Magical Thinking,Joan Didion,3.89,en-US,227,336
+184,The White Album,Joan Didion,4.17,eng,222,738
+185,A Book of Common Prayer,Joan Didion,3.8,eng,272,255
+186,Where I Was From,Joan Didion,3.86,eng,240,292
+187,Slouching Towards Bethlehem,Joan Didion,4.21,eng,238,1825
+188,Democracy,Joan Didion,3.81,en-US,234,169
+189,We Tell Ourselves Stories in Order to Live: Collected Nonfiction,Joan Didion/John Leonard,4.5,eng,1122,108
+190,Play It As It Lays,Joan Didion/David Thomson,3.87,eng,231,1706
+191,The New York Trilogy,Paul Auster/Art Spiegelman/Luc Sante,3.89,eng,308,1873
+192,City of Glass (The New York Trilogy  #1),Paul Auster,3.79,eng,203,734
+193,Ghosts (The New York Trilogy  #2),Paul Auster,3.64,eng,96,195
+194,The Locked Room (The New York Trilogy  #3),Paul Auster,3.89,eng,179,164
+195,Pyramids of Montauk: Explorations in Consciousness,Peter Moon/Preston B. Nichols/Nina Helms,3.89,eng,256,2
+196,The Brooklyn Follies,Paul Auster,3.84,eng,306,1157
+197,Moon Palace,Paul Auster,3.94,eng,320,503
+198,The Music of Chance,Paul Auster,3.9,en-US,217,36
+199,Travels in the Scriptorium,Paul Auster,3.23,eng,145,562
+200,Leviathan,Paul Auster,3.96,eng,275,443
+201,The Red Notebook: True Stories,Paul Auster,3.77,eng,104,120
+202,Timbuktu / Leviathan / Moon Palace,Paul Auster,4.38,fre,1075,1
+203,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,3.93,eng,608,2780
+204,The Coming Economic Collapse: How You Can Thrive When Oil Costs $200 a Barrel,Stephen Leeb/Glen C. Strathy,3.4,en-US,211,26
+205,Collapse of Complex Societies,Joseph A. Tainter,4.15,eng,262,86
+206,Bowling Alone: The Collapse and Revival of American Community,Robert D. Putnam,3.8,eng,544,512
+207,The Collapse of the Common Good: How America's Lawsuit Culture Undermines Our Freedom,Philip K. Howard,3.91,eng,272,4
+208,Reinventing the Enemy's Language: Contemporary Native Women's Writings of North America,Joy Harjo/Gloria Bird/Beth Cuthand/Valerie Martinez/Patricia Blanco,4.39,eng,576,20
+209,My Inventions,Nikola Tesla,4.01,eng,88,262
+210,Wizard: The Life and Times of Nikola Tesla: Biography of a Genius,Marc J.  Seifer/William H. Terbo,3.78,eng,542,334
+211,Nikola Tesla: A Spark of Genius,Carol Dommermuth-Costa,3.93,eng,144,5
+212,Tesla Papers,Nikola Tesla/David Hatcher Childress,4.13,eng,100,2
+213,Boys of Summer,Julie Elizabeth Leto/Leslie Kelly/Kimberly Raye,3.77,eng,249,12
+214,Programming Ruby: The Pragmatic Programmers' Guide,Dave Thomas/Chad Fowler/Andy Hunt,4.03,en-US,828,49
+215,Golding's Lord of the Flies (Cliffs Notes),Maureen Kelly/CliffsNotes/William Golding,3.95,eng,112,8
+216,Lord of the Flies,William Golding,3.68,eng,6,96
+217,A War Like No Other: How the Athenians & Spartans Fought the Peloponnesian War,Victor Davis Hanson,4.11,eng,397,100
+218,We Were Not Like Other People,Ephraim Sevela/Antonina W. Bouis,4.14,eng,216,0
+219,The Lovely Bones,Alice Sebold,3.81,en-GB,328,966
+220,The Lovely Bones,Alice Sebold,3.81,en-US,532,73
+221,Lovely in Her Bones (Elizabeth MacPherson  #2),Sharyn McCrumb,3.8,eng,224,43
+222,The Zen of CSS Design: Visual Enlightenment for the Web,Dave Shea/Molly E. Holzschlag,3.98,en-US,296,28
+223,HTML  XHTML  and CSS (Visual Quickstart Guide),Elizabeth Castro,3.8,en-US,456,42
+224,1000 Record Covers,Michael Ochs/Patrick Javault/Ulrike Wasel,3.85,mul,575,31
+225,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.81,eng,245,1109
+226,Sex  Drugs  and Cocoa Puffs: A Low Culture Manifesto,Chuck Klosterman,3.73,eng,272,3324
+227,Vice (V  #8),Jane Feather,3.51,eng,419,19
+228,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus  #1),Robert M. Pirsig,3.77,eng,540,6446
+229,Once Upon a Cool Motorcycle Dude,Kevin O'Malley/Carol Heyer/Scott Goto,4.08,eng,32,274
+230,Guidebook to Zen and the Art of Motorcycle Maintenance,Ronald L. DiSanto/Thomas J. Steele,3.72,en-GB,408,10
+231,Motorcycle Basics Techbook,John Harold Haynes,3.85,eng,222,2
+232,LOGO Lounge: 2 000 International Identities by Leading Designers,Catharine M. Fishel/Bill Gardner,3.93,eng,191,0
+233,The Death of Ivan Ilych And Other Stories,Leo Tolstoy/Hugh McLean,4.11,eng,304,266
+234,War and Peace,Leo Tolstoy/Henry Gifford/Aylmer Maude/Louise Maude,4.11,eng,1392,6245
+235,The Kingdom of God Is Within You,Leo Tolstoy/Constance Garnett,4.13,eng,352,210
+236,Atlas Shrugged,Ayn Rand/Leonard Peikoff,3.69,eng,1168,14702
+237,For the New Intellectual: The Philosophy of Ayn Rand,Ayn Rand,3.68,eng,224,108
+238,The Fountainhead,Ayn Rand,3.87,en-US,752,229
+239,The Virtue of Selfishness: A New Concept of Egoism,Ayn Rand/Nathaniel Branden,3.51,eng,176,467
+240,Anthem,Ayn Rand,3.63,eng,105,7277
+241,We the Living,Ayn Rand/Leonard Peikoff,3.91,eng,464,1086
+242,Capitalism: The Unknown Ideal,Ayn Rand/Nathaniel Branden/Alan Greenspan/Robert Hessen,3.88,eng,340,153
+243,Letters of Ayn Rand,Ayn Rand/Michael S. Berliner/Leonard Peikoff,3.96,eng,681,2
+244,Sailing for Dummies,J.J. Isler/Peter Isler,3.95,eng,416,7
+245,Sailing from Byzantium: How a Lost Empire Shaped the World,Colin  Wells,3.88,eng,368,83
+246,Sailing Alone Around the Room: New and Selected Poems,Billy Collins,4.23,eng,192,630
+247,The Greatest Sailing Stories Ever Told: Twenty-Seven Unforgettable Stories,Christopher Caswell,3.62,eng,286,5
+248,"Natural Cures ""They"" Don't Want You to Know about",Kevin Trudeau,3.09,en-US,571,284
+249,The Natural,Bernard Malamud/Kevin Baker,3.63,eng,231,672
+250,Digging to America,Anne Tyler,3.55,eng,277,1841
+251,Rereading America: Cultural Contexts for Critical Thinking and Writing,Gary Colombo/Bonnie Lisle,3.77,eng,826,3
+252,Modern Latin America,Thomas E. Skidmore/Peter H. Smith,3.59,en-US,528,11
+253,The Plot Against America,Philip Roth,3.77,eng,391,2925
+254,Naked Pictures of Famous People,Jon   Stewart,3.59,en-GB,164,417
+255,Collected Stories,Gabriel García Márquez/Gregory Rabassa/J.S. Bernstein,4.19,eng,352,179
+256,Crónica de una muerte anunciada,Gabriel García Márquez,3.97,spa,118,411
+257,Cien años de soledad,Gabriel García Márquez,4.07,spa,496,5
+258,Del amor y otros demonios,Gabriel García Márquez,3.98,spa,176,278
+259,Living to Tell the Tale,Gabriel García Márquez/Edith Grossman,3.99,eng,533,47
+260,Memoria de mis putas tristes,Gabriel García Márquez,3.6,spa,112,377
+261,The Elegant Universe: Superstrings  Hidden Dimensions  and the Quest for the Ultimate Theory,Brian Greene,4.07,eng,425,1058
+262,Pure and Simple: The Extraordinary Teachings of a Thai Buddhist Laywoman,Upasika Kee Nanayon/Thanissaro Bhikkhu,4.29,eng,288,6
+263,The Mini Rough Guide to London,Rob Humphreys/Beth Chaplin/Rebecca Morrill,3.75,eng,363,0
+264,Best of London (Lonely Planet Best Of),Lonely Planet/Sarah Johnstone/Steve Fallon,3.83,eng,128,0
+265,Lonely Planet Londres,Lonely Planet/Sarah Johnstone/Tom Masters,4.03,spa,480,0
+266,Out to Eat London 2002 (Lonely Planet Out to Eat),Lonely Planet/Mark Honan,0,eng,295,0
+267,Three Nights in August: Strategy  Heartbreak  and Joy Inside the Mind of a Manager,H.G. Bissinger,3.88,eng,287,237
+268,Cryptonomicon,Neal Stephenson,4.25,eng,1139,4249
+269,Le Réseau Kinakuta (Cryptonomicon  #2),Neal Stephenson,4.1,fre,418,0
+270,The Confusion (The Baroque Cycle  #2),Neal Stephenson,4.26,en-US,815,565
+271,Quicksilver (The Baroque Cycle  #1),Neal Stephenson,3.93,eng,927,1735
+272,The Cobweb,Neal Stephenson/J. Frederick George,3.61,eng,448,137
+273,The Big U,Neal Stephenson,3.25,en-US,308,223
+274,The Diamond Age: Or  A Young Lady's Illustrated Primer,Neal Stephenson/Pedro Jorge Romero,4.19,eng,499,2767
+275,Interface,Neal Stephenson/George F. Jewsbury/Stephen  Bury,3.68,eng,640,270
+276,Odalisque (The Baroque Cycle  Vol. 1  Book 3),Neal Stephenson,4.2,en-US,464,65
+277,Snow Crash,Neal Stephenson/Guy Abadia,4.03,eng,438,6612
+278,Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume II: The Endgame,Dan Harrington/Bill Robertie,4.16,eng,450,30
+279,Harrington on Hold 'em: Expert Strategy for No-Limit Tournaments  Volume I: Strategic Play,Dan Harrington/Bill Robertie,4.24,eng,381,72
+280,The Design of Everyday Things,Donald A. Norman,4.17,eng,240,1379
+281,Emotional Design: Why We Love (or Hate) Everyday Things,Donald A. Norman,3.95,eng,272,149
+282,The Psychology of Everyday Things,Donald A. Norman,4.17,eng,257,31
+283,No Price Too High: A Pentecostal Preacher Becomes Catholic - The Inspirational Story of Alex Jones as Told to Diane Hanson,Alex C. Jones/Diane M. Hanson/Stephen K. Ray,4.27,en-GB,259,7
+284,The Alchemist,Paulo Coelho/Alan R. Clarke/James Noel Smith,3.86,eng,192,76
+285,The Alchemist,Paulo Coelho/Alan R. Clarke/Özdemir İnce,3.86,eng,197,55843
+286,Fullmetal Alchemist  Vol. 9 (Fullmetal Alchemist  #9),Hiromu Arakawa/Akira Watanabe,4.57,eng,192,153
+287,Fullmetal Alchemist  Vol. 3 (Fullmetal Alchemist  #3),Hiromu Arakawa/Akira Watanabe,4.56,eng,192,299
+288,Fullmetal Alchemist  Vol. 8 (Fullmetal Alchemist  #8),Hiromu Arakawa/Akira Watanabe,4.57,eng,192,161
+289,Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1),Hiromu Arakawa/Akira Watanabe,4.5,eng,192,1427
+290,Fullmetal Alchemist  Vol. 4 (Fullmetal Alchemist  #4),Hiromu Arakawa/Akira Watanabe,4.55,eng,200,294
+291,The Illustrated Alchemist: A Fable about Following Your Dream,Paulo Coelho/Alan R. Clarke/Mœbius,3.86,en-US,198,32
+292,Fullmetal Alchemist  Vol. 2 (Fullmetal Alchemist  #2),Hiromu Arakawa/Akira Watanabe,4.52,eng,192,419
+293,Pompeii,Robert   Harris,3.82,eng,274,1726
+294,The Last Days of Pompeii,Edward Bulwer-Lytton/John Gregory Betancourt,3.6,eng,360,68
+295,Of Mice and Men,John Steinbeck,3.87,eng,103,25554
+296,The Game: Penetrating the Secret Society of Pickup Artists,Neil Strauss,3.74,en-US,464,1592
+297,The Westing Game,Ellen Raskin,4.02,eng,182,8782
+298,The Egypt Game,Zilpha Keatley Snyder,3.83,eng,215,1130
+299,Memoirs of a Geisha,Arthur Golden,4.11,eng,503,3703
+300,Memoirs of a Geisha,Arthur Golden,4.11,eng,434,19296
+301,Memoirs of a Geisha,Arthur Golden,4.11,en-US,497,256
+302,Memoirs of a Geisha: A Portrait of the Film,David        James/Peggy Mulloy/Rob Marshall/Arthur Golden,4.08,eng,144,8
+303,Memoirs of a Geisha,Arthur Golden,4.11,eng,497,462
+304,Geisha of Gion,Mineko Iwasaki/Rande Brown,3.93,eng,334,158
+305,Love As A Foreign Language #5,J. Torres/Eric  Kim,3.44,eng,58,2
+306,Jungle Love,Margaret Johnson/Philip Prowse,3.41,eng,95,7
+307,The 5 Love Languages / The 5 Love Languages Journal,Gary Chapman,4.7,eng,0,4
+308,Angels & Demons (Robert Langdon  #1),Dan Brown,3.89,eng,736,21303
+309,Ángeles y demonios (Robert Langdon  #1),Dan Brown,3.89,spa,508,20
+310,Angeles & Demonios,Dan Brown/Raúl Amundaray,3.89,spa,18,7
+311,The Da Vinci Code (Robert Langdon  #2),Dan Brown,3.84,eng,489,35877
+312,The Da Vinci Code,Dan Brown,3.84,eng,467,105
+313,Da Vinci Code (Robert Langdon  #2),Dan Brown/Daniel Roche,3.84,fre,744,16
+314,Deception Point,Dan Brown,3.71,eng,736,410
+315,Deception Point,Dan Brown,3.71,eng,585,183
+316,Deception Point,Dan Brown,3.71,eng,448,4
+317,A Killing Rain (Louis Kincaid  #6),P.J. Parrish,4.04,eng,383,41
+318,The Millionaire Next Door: The Surprising Secrets of America's Wealthy,Thomas J. Stanley/William D. Danko,4.03,eng,258,2600
+319,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century,Napoleon Hill,4.18,eng,320,2334
+320,Think and Grow Rich,Napoleon Hill,4.18,eng,368,9
+321,Pragmatic Version Control: Using Subversion (The Pragmatic Starter Kit Series),Mike   Mason,3.58,eng,256,14
+322,Read My Lips: Sexual Subversion and the End of Gender,Riki Anne Wilchins,3.95,en-US,288,17
+323,Trump: The Art of the Deal,Donald J. Trump/Tony Schwartz,3.66,en-US,384,948
+324,The Richest Man in Babylon,George S. Clason,4.26,eng,194,3400
+325,The Richest Man in Babylon,George S. Clason,4.26,eng,4,15
+326,Shibumi,Trevanian/Gisela Stege,4.21,eng,480,637
+327,1776,David McCullough,4.07,eng,386,6243
+328,1776,Peter  Stone/Sherman Edwards,4.22,eng,192,30
+329,The Crescent Obscured: The United States and the Muslim World  1776-1815,Robert J. Allison,3.62,eng,284,5
+330,The Good Earth (House of Earth  #1),Pearl S. Buck,3.98,eng,418,7656
+331,Purpose Driven Life - For Commuters: What on Earth Am I Here For?,Rick Warren,3.93,eng,5,2
+332,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,3.74,eng,399,4922
+333,Fast Food Nation: What The All-American Meal is Doing to the World,Eric Schlosser,3.74,eng,384,77
+334,Snow Flower and the Secret Fan,Lisa See,4.07,eng,269,14935
+335,The Broker,John Grisham,3.78,eng,422,2334
+336,The Power Broker: Robert Moses and the Fall of New York,Robert A. Caro,4.51,eng,1344,1237
+337,The Power Broker: A Novel (Christian Gillette  #3),Stephen W. Frey,3.75,eng,320,1
+338,Body For Life: 12 Weeks to Mental and Physical Strength,Bill Phillips/Michael D'Orso,3.74,en-US,201,275
+339,Body for Life for Women: A Woman's Plan for Physical and Mental Transformation,Pamela Peeke/Cindy Crawford,3.65,en-US,288,63
+340,Eating for Life: Your Guide to Great Health  Fat Loss and Increased Energy!,Bill Phillips,3.95,eng,405,51
+341,The Warren Buffett Way,Robert G. Hagstrom/Bill Miller/Kenneth L. Fisher,4.13,en-US,245,16
+342,The Warren Buffett CEO: Secrets from the Berkshire Hathaway Managers,Robert P. Miles/Tom Osborne,4.07,eng,432,1
+343,Monkey Business: True Story of the Scopes Trial,Marvin N. Olasky/John R. Perry,3.15,eng,368,8
+344,Junie B. Jones and a Little Monkey Business (Junie B. Jones  #2),Barbara Park/Denise Brunkus,3.99,en-US,68,623
+345,Monkey Business,Sarah Mlynowski,3.67,eng,392,67
+346,Liar's Poker,Michael   Lewis,4.15,eng,256,936
+347,Liar's Poker: A Harry Garnish Mystery,Frank McConnell,3.31,eng,214,1
+348,Risotto: 30 Simply Delicious Vegetarian Recipes from an Italian Kitchen,Ursula Ferrigno/Jason Lowe/Maxine  Clark,4.08,eng,64,2
+349,Giada's Family Dinners,Giada De Laurentiis/Victoria Pearson,3.96,eng,256,74
+350,Everyday Italian: 125 Simple and Delicious Recipes,Giada De Laurentiis,3.95,eng,256,217
+351,Everyday Pasta,Giada De Laurentiis/Victoria Pearson,4.09,eng,240,55
+352,Tyler's Ultimate: Brilliant Simple Food to Make Any Time,Tyler Florence/Petrina Tinslay,4.09,eng,256,34
+353,Tyler Florence's Real Kitchen: An Indespensible Guide for Anybody Who Likes to Cook,Tyler Florence/JoAnn Cianciulli/Bill Bettencourt/Bobby Flay,4.06,eng,304,16
+354,Eat This Book: Cooking with Global Fresh Flavors,Tyler Florence/Petrina Tinslay,3.92,eng,287,15
+355,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt/Stephen J. Dubner,3.97,eng,320,13034
+356,Freakonomics: Un economista políticamente incorrecto explora el lado oculto de lo que nos afecta,Steven D. Levitt/Stephen J. Dubner,3.97,spa,250,23
+357,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt/Stephen J. Dubner,3.97,en-US,496,5
+358,The Last Assassin (John Rain  #5),Barry Eisler,4.27,eng,338,25
+359,Life of Pi,Yann Martel,3.91,en-US,401,668
+360,L'Histoire de Pi,Yann Martel/Nicole Martel/Emile Martel,3.91,fre,448,26
+361,Shadows and Wind: A View of Modern Vietnam,Robert Templer,3.49,eng,400,8
+362,A Million Little Pieces,James Frey,3.65,eng,515,10821
+363,A Million Little Pieces of Feces,Python Bonkers,3.56,en-US,256,6
+364,A Million Little Lies,James Pinocchio/Pablo Fenjves,3.41,en-US,191,24
+365,The Leadership Challenge,James M. Kouzes/Barry Z. Posner,4.05,en-US,458,40
+366,Lincoln on Leadership: Executive Strategies for Tough Times,Donald T. Phillips,4.14,eng,193,281
+367,Leadership in Organizations,Gary Yukl,3.68,en-GB,542,4
+368,Leadership,Rudolph W. Giuliani,3.72,eng,397,147
+369,Men Are from Mars  Women Are from Venus,John Gray,3.55,eng,368,3303
+370,Mars and Venus Book of Days: 365 Inspriations to Enrich Your Relationships,John Gray,3.62,en-US,368,1
+371,Men Are from Mars  Women Are from Venus,John Gray,3.55,eng,2,3
+372,How to Succeed with Women,Ron  Louis/David Copeland,3.76,en-US,320,13
+373,The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,4.05,eng,512,4432
+374,The Clan of the Cave Bear (Earth's Children  #1),Jean M. Auel,4.05,eng,468,67
+375,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,4.26,eng,317,4155
+376,Juiced Official Strategy Guide,Doug Walsh,0,eng,112,0
+377,The 48 Laws of Power,Robert Greene/Joost Elffers,4.18,eng,452,3167
+378,Gates of Fire,Steven Pressfield,4.42,eng,392,1629
+379,Fire Sea (The Death Gate Cycle  #3),Margaret Weis/Tracy Hickman,4.07,eng,414,175
+380,The Gate of Fire (Oath Of Empire Book Two),Thomas Harlan,3.58,en-US,721,4
+381,The Afghan Campaign,Steven Pressfield,3.96,eng,354,198
+382,Tides of War,Steven Pressfield,3.9,eng,448,157
+383,Last of the Amazons,Steven Pressfield,3.76,eng,400,125
+384,The War of Art: Break Through the Blocks & Win Your Inner Creative Battles,Steven Pressfield/Robert McKee,4,eng,168,4702
+385,Gita on the Green,Stephen J. Rosen/Steven Pressfield,3.78,en-US,176,2
+386,Blood Stripes: The Grunt's View of the War in Iraq,David J. Danelo/Steven Pressfield,3.91,eng,340,6
+387,Phaedrus and Letters VII and VIII,Plato/Walter Hamilton,4.1,en-US,160,20
+388,Phaedrus,Plato/Robin Waterfield,3.92,eng,128,6
+389,Phaedrus,Plato/C.J. Rowe,3.92,eng,176,22
+390,Lysis/Phaedrus/Symposium: Plato on Homosexuality,Plato/Benjamin Jowett,4.47,eng,157,0
+391,Enthusiasm and Divine Madness,Josef Pieper/Richard Winston/Clara Winston,4.5,eng,125,4
+392,On Love: Lysis/Symposium/Phaedrus/Alcibiades/Selections from Republic & Laws,Plato/C.D.C. Reeve,4.06,eng,272,4
+393,Gorgias/Phaedrus (Agora),Plato/James H. Nichols Jr.,4.35,eng,233,1
+394,Statesman,Plato/C.J. Rowe,3.85,eng,128,7
+395,Gorgias,Plato/Walter Hamilton/Chris Emlyn-Jones,3.95,en-GB,208,198
+396,The Histories,Herodotus/Aubrey de Sélincourt/John M. Marincola,3.99,eng,716,597
+397,The Histories,Herodotus/Aubrey de Sélincourt/John M. Marincola,3.99,eng,622,18
+398,The History (Great Minds),Herodotus/Henry Francis Cary,3.99,en-US,613,0
+399,The Histories,Herodotus/Carolyn Dewald/Robin Waterfield,3.99,eng,772,41
+400,The Histories,Herodotus/Aubrey de Sélincourt/Andrew Robert Burn,3.99,en-US,653,17
+401,The Histories,Herodotus/Jennifer Tolbert Roberts/Walter Blanco,3.99,en-US,464,5
+402,The Histories,Herodotus/Edward Henry Blakeney/George Rawlinson/Rosalind Thomas,3.99,en-US,816,10
+403,The History,Herodotus/Peter Grene,3.99,en-US,710,6
+404,The Iliad,Homer/Robert Fagles/Bernard Knox,3.86,eng,683,3423
+405,Iliad,Homer/Stanley Lombardo/Sheila Murnaghan,3.86,en-US,574,137
+406,The Iliad,Homer/Robert Fitzgerald/Andrew Ford,3.86,en-US,588,81
+407,The Iliad/The Odyssey,Homer/Robert Fagles/Bernard Knox,4.04,eng,1556,380
+408,The Iliad,Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu,3.86,eng,462,118
+409,The Iliad,Homer/W.H.D. Rouse,3.86,en-US,312,15
+410,The Essential Iliad,Homer/Sheila Murnaghan/Stanley Lombardo,3.86,en-US,216,18
+411,The Odyssey,Homer/Robert Fagles/Bernard Knox,3.76,eng,541,6557
+412,The Odyssey,Homer/Robert Fitzgerald/D.S. Carne-Ross,3.76,eng,515,179
+413,The Odyssey,Homer/Richmond Lattimore,3.76,eng,374,78
+414,The Odyssey,Homer/E.V. Rieu/Peter Jones/D.C.H. Rieu,3.76,eng,324,167
+415,The Odyssey,Homer/W.H.D. Rouse,3.76,eng,304,24
+416,Aeneid: Selections from Books 1  2  4  6  10  12,Virgil/Barbara Weiden Boyd,4.35,eng,161,6
+417,Eclogues. Georgics. Aeneid: Books 1-6,Virgil/Henry Rushton Fairclough/G.P. Goold,4.22,mul,607,10
+418,City Eclogue,Ed Roberson,4.13,eng,136,7
+419,The Eclogues and The Georgics,Virgil/Cecil Day-Lewis,3.8,eng,180,15
+420,Paul Kirk's Championship Barbecue Sauces: 175 Make-Your-Own Sauces  Marinades  Dry Rubs  Wet Rubs  Mops and Salsas,Paul  Kirk,3.94,eng,272,0
+421,The Complete Pelican Shakespeare,William Shakespeare/Stephen Orgel/A.R. Braunmuller,4.5,eng,1808,25
+422,The Complete Works,William Shakespeare,4.5,eng,1248,6
+423,Hamlet,William Shakespeare/Harold Bloom/Rex Gibson,4.02,eng,289,7139
+424,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company/Adam Long/Daniel Singer/Jess Winfield,4.44,eng,137,118
+425,The Pilgrimage: A Contemporary Quest for Ancient Wisdom,Paulo Coelho/Alan R. Clarke,3.64,en-US,272,92
+426,The Valkyries,Paulo Coelho/Alan R. Clarke,3.31,en-US,212,79
+427,Warrior of the Light,Paulo Coelho,3.7,en-US,142,945
+428,The Zahir,Paulo Coelho/Margaret Jull Costa,3.57,eng,336,2575
+429,By the River Piedra I Sat Down and Wept,Paulo Coelho/Alan R. Clarke,3.57,eng,208,2702
+430,The Fifth Mountain,Paulo Coelho/Clifford E. Landers,3.62,en-US,256,68
+431,Veronika Decides to Die,Paulo Coelho/Margaret Jull Costa/Kâmuran Şipal,3.7,eng,210,5452
+432,Hamlet,William Shakespeare/Stephen Orgel/A.R. Braunmuller,4.02,eng,148,125
+433,Cliffs Notes on Shakespeare's Hamlet,Carla Lynn Stockton,3.69,en-US,129,6
+434,Shakespeare's Hamlet,William Shakespeare/Terri Mategrano,4.02,eng,240,16
+435,Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth,Giorgio De Santillana/Hertha Von Dechend,4.29,eng,450,57
+436,History of the Peloponnesian War: Bk. 1-2,Thucydides/C.F. Smith,4.32,mul,496,7
+437,On Justice  Power and Human Nature: Selections from The History of the Peloponnesian War,Thucydides/Paul Woodruff,3.72,eng,172,15
+438,History of the Peloponnesian War: Bk. 5-6,Thucydides/C.F. Smith,4.35,mul,400,0
+439,The Peloponnesian War,Thucydides/Steven Lattimore,3.9,eng,530,21
+440,The Peloponnesian War: A New Translation  Backgrounds  Interpretations,Thucydides/Jennifer Tolbert Roberts/Walter Blanco,3.9,eng,554,4
+441,History of the Peloponnesian War  Bk. 7-8,Thucydides/C.F. Smith,4.29,eng,480,0
+442,Thucydides  Book 6 Commentary,Cynthia W. Shelmerdine,4.5,eng,34,0
+443,Euripides I: Alcestis / The Medea / The Heracleidae / Hippolytus,Euripides/Richmond Lattimore/David Grene/Rex Warner/Ralph Gladstone,4.03,eng,221,56
+444,Euripides V: Electra / The Phoenician Women / The Bacchae,Euripides/David Grene/Richmond Lattimore/Emily Townsend Vermeule/Elizabeth Wyckoff/William Arrowsmith,4.21,eng,228,46
+445,Euripides IV: Rhesus / The Suppliant Women / Orestes / Iphigenia in Aulis,Euripides/David Grene/Richmond Lattimore/William Arrowsmith/Frank William Jones/Charles R. Walker,4.21,eng,307,8
+446,Grief Lessons: Four Plays by Euripides,Anne Carson/Euripides,4.4,eng,312,85
+447,Ten Plays,Euripides/Moses Hadas/John Maclean,4.17,en-US,432,21
+448,Euripides III: Hecuba / Andromache / The Trojan Women / Ion (Complete Greek Tragedies  #7),Euripides/David Grene/Richmond Lattimore/William Arrowsmith/John Frederick Nims/Ronald Frederick Willetts,4,eng,255,15
+449,Euripides II: The Cyclops / Heracles / Iphigenia in Tauris / Helen,Euripides/David Grene/Richmond Lattimore/Witter Bynner/William Arrowsmith,4.31,eng,264,12
+450,Medea and Other Plays,Euripides/John Davie/Richard Rutherford,4.03,eng,206,120
+451,Cyclops / Alcestis / Medea,Euripides/David Kovacs,4.23,mul,432,4
+452,Medea,Euripides/Donald J. Mastronarde,3.87,grc,431,9
+453,The Bacchae and Other Plays,Euripides/John Davie/Richard Rutherford,4.14,eng,360,8
+454,Bakkhai,Euripides/Reginald Gibbons/Peter H. Burian,3.88,eng,160,13
+455,Plays 1: Medea/The Phoenician Women/Bacchae,Euripides/David Thompson/J. Michael Walton,3.78,eng,192,0
+456,The Trojan Women and Hippolytus,Euripides,3.63,eng,64,4
+457,The Bacchae of Euripides: A Communion Rite,Wole Soyinka,3.86,eng,128,6
+458,Orestes and Other Plays,Euripides/James Morwood/Robin Waterfield,4.1,eng,282,2
+459,Children of Heracles / Hippolytus / Andromache / Hecuba,Euripides/David Kovacs,4.26,mul,528,5
+460,Alcestis,Euripides/William Arrowsmith,3.83,eng,142,95
+461,Suppliant Women / Electra / Heracles,Euripides/David Kovacs,4.47,mul,464,4
+462,Medea,Euripides/Georgia Ann Machemer/Michael   Collier,3.87,eng,116,35
+463,Euripides: Medea,William Allan,4.04,eng,160,1
+464,CliffsNotes on Euripides' Medea and Electra,Robert J. Milch,4.2,eng,69,0
+465,Trojan Women / Iphigenia Among the Taurians / Ion,Euripides/David Kovacs,4.03,mul,528,2
+466,Helen / Phoenician Women / Orestes,Euripides/David Kovacs,4.07,mul,605,3
+467,Euripides: Iphigenia at Aulis (Companions to Greek & Roman Tragedy),Euripides/Pantelis Michelakis,4.03,eng,144,1
+468,The Complete Greek Tragedies  Volume 3: Euripides,Euripides/David Grene/Richmond Lattimore,4.43,eng,672,7
+469,Aeschylus I: Oresteia (Agamemnon  The Libation Bearers  The Eumenides),Aeschylus/David Grene/Richmond Lattimore,4.02,en-US,171,53
+470,Aeschylus II: The Suppliant Maidens  The Persians  Seven against Thebes  and Prometheus Bound (The Complete Greek Tragedies),Aeschylus/David Grene/Richmond Lattimore/Seth Benardete,4.1,eng,188,26
+471,The Oresteia,Aeschylus/Alan Shapiro/Peter H. Burian,4.02,eng,304,7
+472,The Oresteia: Agamemnon  The Libation Bearers  The Eumenides,Aeschylus/Robert Fagles/William Bedell Stanford,4.02,eng,335,591
+473,Oresteia,Aeschylus/Peter Meineck/Helene P. Foley,4.02,eng,224,21
+474,Prometheus Bound and Other Plays,Aeschylus/Philip Vellacott,4.1,eng,160,62
+475,The Oresteia,Aeschylus/Ted Hughes,4.02,en-US,208,25
+476,Aeschylus  1: The Oresteia: Agamemnon/The Libation Bearers/The Eumenides,Aeschylus/David R. Slavitt/Smith Palmer Bovie,4.02,eng,178,3
+477,The Complete Greek Tragedies  Volume 1: Aeschylus,Aeschylus/Richmond Lattimore/David Grene,4.1,eng,358,7
+478,Aeschylus: The Oresteia (A Student Guide: Landmarks of World Literature),Simon Goldhill,4.03,eng,95,3
+479,The Oresteia: Agamemnon  Choephoroe & Eumenides (Everyman's Library  No. 260),Aeschylus/George Thomson/Richard Seaford,4.02,eng,127,8
+480,Aeschylus 2: The Persians/Seven Against Thebes/The Suppliants/Prometheus Bound,Aeschylus/David R. Slavitt/Smith Palmer Bovie,4.1,en-GB,232,2
+481,The Oresteia Trilogy: Agamemnon/The Libation-Bearers/The Furies,Aeschylus/E.D.A. Morshead,4.02,eng,151,8
+482,The Suppliant Maidens/The Persians/Seven against Thebes/Prometheus Bound,Aeschylus/E.D.A. Morshead,4.1,eng,208,0
+483,Sophocles II: Ajax/Women of Trachis/Electra/Philoctetes (Complete Greek Tragedies 4),Sophocles/David Grene/Richmond Lattimore/John Moore/Michael Jameson,4.14,eng,254,36
+484,The Oedipus Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone,Sophocles/Paul Roche,3.97,eng,288,46
+485,The Complete Plays,Sophocles/Paul Roche,4.27,eng,420,40
+486,The Oedipus Cycle: Oedipus Rex  Oedipus at Colonus  Antigone,Sophocles/Robert Fitzgerald/Dudley Fitts,3.97,eng,259,726
+487,The Three Theban Plays: Antigone  Oedipus the King  Oedipus at Colonus,Sophocles/Robert Fagles/Bernard Knox,3.97,eng,430,288
+488,Theban Plays,Sophocles/Peter Meineck/Paul Woodruff,3.97,en-US,304,7
+489,The Theban Plays (Everyman's Library  #93),Sophocles/David Grene/Charles Segal,3.97,en-US,223,3
+490,Electra and Other Plays,Sophocles/E.F. Watling,4.14,eng,218,9
+491,Antigone; Oedipus the Kingn; Electra,Sophocles/Edith Hall/H.D.F. Kitto,3.94,eng,178,199
+492,Oedipus Rex  (The Theban Plays  #1),Sophocles/J.E. Thomas,3.7,eng,75,1776
+493,The Oedipus Plays of Sophocles,Sophocles/Paul Roche,3.97,eng,390,1
+494,Oedipus Rex (Greek and Latin Classics),Sophocles/Roger D. Dawe,3.7,grc,214,1
+495,Oedipus the King,Sophocles/Bernard Knox/Cynthia Brantley Johnson,3.7,eng,144,57
+496,Four Plays: The Clouds/The Birds/Lysistrata/The Frogs,Aristophanes/William Arrowsmith/Richmond Lattimore/Douglass Parker,4.06,eng,624,79
+497,Three Plays by Aristophanes: Lysistrata/Women at the Thesmophoria/Assemblywomen,Aristophanes/Jeffrey Henderson,3.94,eng,256,8
+498,The Complete Plays,Aristophanes/Moses Hadas,4.21,eng,577,33
+499,Aristophanes 1: The Acharnians/Peace/Celebrating Ladies/Wealth,Aristophanes/David R. Slavitt,3.83,eng,336,0
+500,Clouds/Wasps/Birds (Aristophanes 1),Aristophanes/Peter Meineck,3.77,eng,480,0
+501,Lysistrata and Other Plays,Aristophanes/Alan H. Sommerstein,3.95,en-US,241,120
+502,Acharnians,Aristophanes/Jeffrey Henderson,3.42,eng,96,1
+503,Clouds,Aristophanes/Kenneth James Dover,3.75,eng,254,2
+504,Clouds/Wasps/Peace,Aristophanes/Jeffrey Henderson,4.07,grc,624,10
+505,Three Plays: The Wasps / The Poet and the Women / The Frogs,Aristophanes/David B. Barrett,3.94,eng,224,27
+506,Four Comedies: Lysistrata / The Frogs / The Birds / Ladies' Day,Aristophanes/Dudley Fitts,4.03,eng,400,2
+507,Frogs/Assemblywomen/Wealth (Loeb Classical Library 180),Aristophanes/Jeffrey Henderson,4.21,grc,608,4
+508,Cliffs Notes on Aristophanes' Lysistrata  The Birds  The Clouds  The Frogs,W. John Campbell,2.8,eng,80,0
+509,Aristophanes and Athens: An Introduction to the Plays,Douglas M. MacDowell,4.07,eng,376,3
+510,Lysistrata,Aristophanes/Douglass Parker,3.85,eng,98,2
+511,Peace,Aristophanes/S. Douglas Olson,3.6,eng,408,13
+512,Lysistrata,Aristophanes/Sarah Ruden,3.85,eng,132,552
+513,The Knights / Peace / The Birds / The Assembly Women / Wealth,Aristophanes/Alan H. Sommerstein/David B. Barrett/David Brett,3.69,en-US,335,1
+514,Genres in Dialogue: Plato and the Construct of Philosophy,Andrea Wilson Nightingale,4.33,en-GB,238,2
+515,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.88,eng,226,35537
+516,The Night Gardener,George Pelecanos,3.64,eng,372,357
+517,Twelfth Night,William Shakespeare,3.98,eng,272,2513
+518,Brokeback Mountain,Annie Proulx,3.94,eng,55,1751
+519,Getting Things Done: The Art of Stress-Free Productivity,David    Allen,3.99,en-GB,267,3838
+520,Getting Things Done When You Are Not in Charge,Geoffrey M. Bellman,3.46,eng,176,12
+521,Formas breves,Ricardo Piglia,4.17,spa,144,30
+522,El último lector,Ricardo Piglia,4.14,spa,209,24
+523,Money to Burn,Ricardo Piglia/Amanda Hopkinson,3.76,eng,209,12
+524,Respiración artificial,Ricardo Piglia,3.96,spa,218,77
+525,Plata quemada,Ricardo Piglia,3.76,spa,227,65
+526,American Government: Continuity and Change  Alternate Edition,Karen  O'Connor/Larry J. Sabato,2.83,eng,664,0
+527,Essentials of American and Texas Government: Continuity and Change,Karen  O'Connor/Larry J. Sabato,3.5,eng,854,0
+528,El túnel,Ernesto Sabato,4.05,spa,159,60
+529,The Confessions (Works of Saint Augustine 1),Augustine of Hippo/John E. Rotelle/Maria Boulding,3.92,eng,416,24
+530,The City of God,Augustine of Hippo/Thomas Merton/Marcus Dods,3.92,eng,905,16
+531,The Enchiridion on Faith Hope and Love (Augustine Series 1),Augustine of Hippo/Bruce Harbert/John E. Rotelle,4.04,eng,144,21
+532,Augustine of Hippo: A Biography,Peter R.L. Brown,4.27,en-US,576,97
+533,On Christian Doctrine,Augustine of Hippo/D.W. Robertson Jr.,4.03,eng,191,67
+534,Confessions  Books 1-13,Augustine of Hippo/Peter R.L. Brown/Frank Sheed,3.92,eng,296,8
+535,Saint Augustine,Garry Wills,3.55,eng,176,30
+536,Augustine: A Very Short Introduction,Henry Chadwick,3.71,eng,144,33
+537,On Genesis/A Refutation of the Manichees/The Unfinished Literal Meaning of Genesis (Works of St Augustine 1),Augustine of Hippo/Boniface Ramsey/Edmund Hill,3.94,eng,540,3
+538,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,4.07,eng,302,266
+539,Confesiones de un chef,Anthony Bourdain,4.07,spa,478,0
+540,The Metamorphoses of Ovid,Ovid/Allen Mandelbaum,4.05,eng,559,64
+541,Metamorphoses,Ovid/David Raeburn/Denis Feeney,4.05,eng,723,764
+542,Metamorphoses,Ovid/Bernard Knox/Charles    Martin,4.05,eng,624,8
+543,Ovid's Metamorphoses: Books 1-5,Ovid/William Scovil Anderson,4.27,eng,584,16
+544,Ovid’s Metamorphoses: Books 6-10,Ovid/William Scovil Anderson,4.32,eng,560,3
+545,Latin Via Ovid: A First Course,Norma Goldman/Jacob E. Nyenhuis,4.36,en-US,524,8
+546,The Art of Love and Other Poems,Ovid/J.H. Mozley/G.P. Goold,4.02,eng,400,5
+547,The Poems of Exile: Tristia and the Black Sea Letters,Ovid/Peter Green,4.12,eng,451,14
+548,Metamorphoses: Volume 2  Books IX-XV,Ovid/Frank Justus Miller,4.52,eng,499,4
+549,Metamorphoses: Volume I  Books I-VIII,Ovid/Frank Justus Miller,4.42,eng,496,14
+550,Practice! Practice!: A Latin Via Ovid Workbook,Norma Goldman/Michael  Rossi,4.08,eng,152,0
+551,Tibullus: A Commentary,Michael C.J. Putnam,3.71,eng,222,1
+552,Dionysiac Poetics and Euripides' Bacchae,Charles Segal,4.62,eng,440,0
+553,Antigone,Sophocles/Reginald Gibbons/Charles Segal,3.64,eng,197,5
+554,Antigone,Sophocles/Reginald Gibbons/Charles Segal,3.64,eng,208,14
+555,Object-Oriented Programming in C++,Richard Johnsonbaugh/Martin Kalin,4.07,eng,640,0
+556,The Iliad,Homer/Robert Fitzgerald,3.86,eng,594,2
+557,Love  Sex & Tragedy: How the Ancient World Shapes Our Lives,Simon Goldhill,3.79,eng,345,16
+558,Reading Greek Tragedy,Simon Goldhill,4.12,eng,302,3
+559,Who Needs Greek? Contests in the Cultural History of Hellenism,Simon Goldhill,3.4,eng,334,1
+560,Foucault's Virginity: Ancient Erotic Fiction & the History of Sexuality (Stanford Memorial Lecture),Simon Goldhill,3.73,eng,212,0
+561,2012: The Return of Quetzalcoatl,Daniel Pinchbeck,3.42,en-US,408,217
+562,Breaking Open the Head: A Psychedelic Journey Into the Heart of Contemporary Shamanism,Daniel Pinchbeck/Lee Fukui,4.06,en-US,336,166
+563,Them: Adventures with Extremists,Jon Ronson,3.95,eng,336,831
+564,The Men Who Stare at Goats,Jon Ronson,3.61,eng,259,899
+565,Guns  Germs and Steel: The Fates of Human Societies,Jared Diamond,4.03,eng,518,404
+566,Caught Inside: A Surfer's Year on the California Coast,Daniel Duane,3.87,eng,256,60
+567,Into the Wild,Jon Krakauer,3.98,eng,207,18198
+568,Wild at Heart: Discovering the Secret of a Man's Soul,John Eldredge,3.92,eng,256,1503
+569,Wild Swans: Three Daughters of China,Jung Chang,4.26,eng,562,4280
+570,Wild Fire (John Corey  #4),Nelson DeMille,4.01,eng,519,944
+571,Born to Be Wild,Catherine Coulter,3.78,eng,354,115
+572,The Call of the Wild,Jack London/Avi,3.86,eng,172,7203
+573,Wild About Books,Judy Sierra/Marc Brown,4.17,eng,40,378
+574,In Web Design for Libraries,Charles P. Rubenstein,2.67,eng,196,2
+575,Nickel and Dimed: On (Not) Getting by in America,Barbara Ehrenreich,3.63,eng,240,5762
+576,The History of Sexuality 1: An Introduction,Michel Foucault/Robert Hurley,4.04,eng,168,3
+577,The History of Sexuality  Volume 1: The Will to Knowledge,Michel Foucault/Robert Hurley,4.04,eng,168,27
+578,The History of Sexuality  Volume 2: The Use of Pleasure,Michel Foucault/Robert Hurley,4.08,eng,304,2
+579,The Making of Pride and Prejudice,Sue Birtwistle/Sue Conklin/Susie Conklin,4.45,eng,128,99
+580,Pride and Prejudice,Jane Austen,4.26,eng,333,253
+581,Pride & Prejudice,Jane Austen/Vivien Jones,4.26,eng,392,210
+582,Pride and Prejudice,Jane Austen/George Saintsbury/Hugh  Thomson,4.26,eng,476,166
+583,Pride and Prejudice,Jane Austen/Carol Howard,4.26,eng,392,171
+584,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,4,eng,399,1022
+585,Iceland: Land of the Sagas,David  Roberts/Jon Krakauer,3.71,eng,160,40
+586,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,4.17,eng,368,11701
+587,In the Land of White Death: An Epic Story of Survival in the Siberian Arctic,Valerian Albanov/Jon Krakauer/David  Roberts/Alison Anderson/Валериан Альбанов,4.01,eng,288,136
+588,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,3.68,eng,616,2800
+589,La Tierra es plana: Breve historia del mundo globalizado del siglo XXI,Thomas L. Friedman,3.68,spa,495,0
+590,The Avalanche Handbook,David McClung/Peter Schaerer,4.07,eng,342,1
+591,Avalanche,Arthur J. Roth,3.65,eng,144,36
+592,Little Women,Louisa May Alcott,4.07,eng,449,18458
+593,Little Women (Little Women  #1),Louisa May Alcott/Scott McKowen,4.07,eng,536,131
+594,Little Women,Louisa May Alcott/Paula Danziger,4.07,eng,562,45
+595,Little Women,Louisa May Alcott/Jessie Willcox Smith/Frank T. Merrill,4.07,eng,389,9
+596,Little Women  Little Men  Jo's Boys,Louisa May Alcott/Elaine Showalter,4.33,eng,1064,87
+597,Little Women,Louisa May Alcott,4.07,eng,327,9
+598,A Tale of Two Cities,Charles Dickens/Keith Cox/Cynthia Brantley Johnson,3.84,eng,496,28
+599,A Tale of Two Cities,Charles Dickens/Gillen D'Arcy Wood,3.84,eng,409,183
+600,A Tale of Two Cities: Charles Dickens,SparkNotes,4,eng,96,1
+601,A Tale of Two Cities,Charles Dickens/Gillen D'Arcy Wood,3.84,en-US,429,88
+602,A Tale of Two Cities,Charles Dickens/Simon Schama,3.84,eng,432,9
+603,Den of Thieves,James B. Stewart,4.16,en-US,592,216
+604,Den of Thieves (Cat Royal  #3),Julia Golding,4.21,eng,416,61
+605,Charles Dickens: Four Novels:  Great Expectations  Hard Times  A Christmas Carol  and A Tale of Two Cities,Charles Dickens,4.3,en-US,848,2
+606,Bleak House,Charles Dickens/Mary Gaitskill/Hablot Knight Browne,4.01,eng,887,146
+607,David Copperfield,Charles Dickens/Gish Jen,3.99,eng,928,17
+608,What Jane Austen Ate and Charles Dickens Knew: From Fox Hunting to Whist—the Facts of Daily Life in 19th-Century England,Daniel Pool,3.85,en-US,416,501
+609,Charles Dickens,Jane Smiley,3.82,eng,224,81
+610,Martin Chuzzlewit,Charles Dickens/Patricia Ingham/Hablot Knight Browne,3.83,eng,830,394
+611,Why Is Sex Fun? The Evolution of Human Sexuality (Science Masters),Jared Diamond,3.71,eng,176,278
+612,The Third Chimpanzee: The Evolution & Future of the Human Animal,Jared Diamond,4.06,eng,407,1
+613,J.K.Rowling,Colleen Sexton,3.84,eng,112,10
+614,Harry Potter Schoolbooks Box Set: Two Classic Books from the Library of Hogwarts School of Witchcraft and Wizardry,J.K. Rowling,4.4,eng,240,139
+615,J.K. Rowling's Harry Potter Novels: A Reader's Guide,Philip Nel,3.58,eng,96,9
+616,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling,4.57,eng,768,78
+617,The Santaroga Barrier,Frank Herbert,3.66,eng,256,85
+618,The Dosadi Experiment (ConSentiency Universe  #2),Frank Herbert,3.81,eng,320,150
+619,The Eyes of Heisenberg,Frank Herbert,3.43,eng,192,76
+620,The Birds (Methuen Drama),Sean O'Brien,2.67,en-GB,96,1
+621,The Frogs,Aristophanes/B.B. Rogers,3.8,en-US,88,1
+622,Lysistrata,Aristophanes/Jeffrey Henderson,3.85,eng,320,6
+623,"Myths of the Underworld Journey: Plato  Aristophanes  and the ""Orphic"" Gold Tablets",Radcliffe G. Edmonds III,3.75,eng,276,0
+624,Assembly of Women (Literary Classics),Aristophanes/Robert Mayhew,3.77,en-GB,124,4
+625,Comoediae 1: Acharenses/Equites/Nubes/Vespae/Pax/Aves,Aristophanes/F.W. Hall/W.M. Geldart,5,grc,364,0
+626,Aristophanes and His Theatre of the Absurd,Paul Anthony Cartledge,3.86,eng,127,1
+627,Later Novels and Other Writings: The Lady in the Lake / The Little Sister / The Long Goodbye / Playback / Double Indemnity (screenplay) / Selected Essays and Letters,Raymond Chandler/Frank MacShane,4.47,eng,1076,48
+628,Stories and Early Novels: Pulp Stories / The Big Sleep / Farewell  My Lovely / The High Window,Raymond Chandler/Frank MacShane,4.5,eng,1199,66
+629,The Lady in the Lake  The Little Sister  The Long Goodbye  Playback (Everyman's Library),Raymond Chandler/Tom Hiney,4.45,eng,1016,11
+630,The High Window (Philip Marlowe  #3),Raymond Chandler,4.08,eng,265,570
+631,The Simple Art of Murder,Raymond Chandler,4.16,eng,384,162
+632,The Big Sleep (Philip Marlowe  #1),Raymond Chandler,4.01,eng,231,4076
+633,The Long Goodbye (Philip Marlowe  #6),Raymond Chandler,4.22,eng,379,1619
+634,An Evening of Long Goodbyes,Paul Murray,3.6,eng,448,130
+635,The Long Goodbye: Memories of My Father,Patti   Davis,3.82,eng,205,31
+636,Ghost In the Shell 2: Innocence: After the Long Goodbye,Masaki Yamada/Yuji Oniki/Carl Gustav Horn,3.97,eng,196,12
+637,The Long Goodbye (Philip Marlowe  #6),Raymond Chandler,4.22,eng,2,2
+638,Breaking the Spell: Religion as a Natural Phenomenon,Daniel C. Dennett,3.89,eng,448,330
+639,Darwin's Dangerous Idea: Evolution and the Meanings of Life,Daniel C. Dennett,4.04,eng,588,235
+640,Freedom Evolves,Daniel C. Dennett,3.83,eng,368,88
+641,Brainstorms: Philosophical Essays on Mind and Psychology,Daniel C. Dennett,3.95,eng,424,11
+642,Kinds of Minds: Towards an Understanding of Consciousness,Daniel C. Dennett,3.82,eng,192,63
+643,Leaps of Faith: Science  Miracles & the Search for Supernatural Consolation,Nicholas Humphrey/Daniel C. Dennett,3.61,en-US,244,3
+644,Elbow Room: The Varieties of Free Will Worth Wanting,Daniel C. Dennett,3.92,eng,212,37
+645,The Mind’s I: Fantasies and Reflections on Self and Soul,Douglas R. Hofstadter/Daniel C. Dennett,4.14,eng,512,92
+646,The Illustrated A Brief History of Time,Stephen Hawking,4.17,eng,256,63
+647,A Briefer History of Time,Stephen Hawking/Leonard Mlodinow,4.22,eng,176,828
+648,The Universe in a Nutshell,Stephen Hawking,4.15,eng,216,645
+649,God Created the Integers: The Mathematical Breakthroughs That Changed History,Stephen Hawking,4.07,eng,1160,51
+650,Stephen Hawking's Universe: The Cosmos Explained,David Filkin/Stephen Hawking,4.29,eng,304,22
+651,The Future of Spacetime,Stephen Hawking/Kip S. Thorne/Igor Novikov/Timothy Ferris/Alan Lightman/Richard     Price,3.94,eng,224,10
+652,Stephen Hawking's Universe,John Boslough,4.02,eng,160,30
+653,The Nature of Space and Time,Stephen Hawking/Roger Penrose,4.09,eng,152,40
+654,The Physics of Star Trek,Lawrence M. Krauss/Stephen Hawking,3.83,eng,188,178
+655,Falconry & Hawking,Phillip Glasier,4.31,eng,352,5
+656,The World Treasury of Physics  Astronomy & Mathematics from Albert Einstein to Stephen W. Hawking & from Annie Dillard to John Updike,Timothy Ferris,4.13,eng,859,12
+657,The Art of Nonfiction: A Guide for Writers and Readers,Ayn Rand/Robert Mayhew/Peter   Schwartz,3.96,en-US,192,39
+658,The Journals of Ayn Rand,Ayn Rand/Leonard Peikoff/David Harriman,3.94,eng,752,14
+659,The Fountainhead,Ayn Rand/Leonard Peikoff,3.87,eng,704,10063
+660,The 36-Hour Day: A Family Guide to Caring for Persons with Alzheimer Disease  Related Dementing Illnesses  and Memory Loss in Later Life,Nancy L. Mace/Peter V. Rabins,4.24,eng,624,6
+661,The 3-Hour Diet: On the Go,Jorge Cruise,3.1,en-US,192,2
+662,The Last Hours of Ancient Sunlight: The Fate of the World and What We Can Do Before It's Too Late,Thom Hartmann/Joseph Chilton Pearce/Neale Donald Walsch,4.23,en-US,400,136
+663,Specimen Days,Michael Cunningham,3.58,eng,336,446
+664,A Home at the End of the World,Michael Cunningham,3.91,eng,342,658
+665,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,3.93,en-US,277,355
+666,Blink,Ted Dekker,4.17,eng,400,502
+667,Blink-182: Tales from Beneath Your Mom,Mark Hoppus/Anne Hoppus/Alex Gaskarth,4.39,eng,112,22
+668,The Complete Novels,Jane Austen/Hugh  Thomson,4.55,eng,1103,31
+669,The Jane Austen Book Club,Karen Joy Fowler,3.08,eng,288,3535
+670,Jane Austen: The Complete Novels,Jane Austen,4.55,eng,1103,24
+671,Jane Austen's Letters,Jane Austen/Deirdre Le Faye,4.16,eng,672,69
+672,Persuasion,Jane Austen/James Kinsley/Anna Massey/Richard S. Hartmetz/Maurgaux Motin/Deidre Shauna Lynch,4.14,eng,249,11308
+673,Tea with Jane Austen,Kim Wilson/Tom Carpenter,3.79,eng,128,108
+674,The Old Man and the Sea,Ernest Hemingway/Donald Sutherland,3.77,eng,3,77
+675,Cliffs Notes on Hemingway's The Old Man and the Sea,Jeanne Sallade Criswell/Gary Carey,2.83,en-US,80,0
+676,Flaubert's Parrot,Julian Barnes,3.66,eng,190,606
+677,Flaubert in Egypt: A Sensibility on Tour,Gustave Flaubert/Francis Steegmuller,3.62,eng,230,31
+678,A Sentimental Education,Gustave Flaubert/Douglas Parmée,3.83,eng,464,7
+679,Three Tales,Gustave Flaubert/Roger Whitehouse/Geoffrey Wall,3.69,eng,110,150
+680,Sentimental Education,Gustave Flaubert/Robert Baldick/Geoffrey Wall,3.83,eng,460,388
+681,The Family Idiot 5: Gustave Flaubert 1821-1857,Jean-Paul Sartre/Carol Cosman,3.8,en-US,632,1
+682,Middlesex,Jeffrey Eugenides,4,eng,529,19548
+683,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,4.28,eng,916,6118
+684,John Adams,David McCullough,4.06,eng,751,5325
+685,The John Adams Reader: Eseential Writings on an American Composer,Thomas May/John   Adams,3.5,eng,455,5
+686,The Letters of John and Abigail Adams,Abigail Adams/Frank Shuffelton,4.14,eng,512,28
+687,Passionate Sage: The Character and Legacy of John Adams,Joseph J. Ellis,4.05,eng,288,78
+688,The Portable John Adams,John  Adams/John Patrick Diggins,4.17,eng,533,0
+689,Sex For Dummies,Ruth Westheimer,3.65,eng,432,0
+690,Baby Signing For Dummies,Jennifer Watson,3.64,eng,257,9
+691,The Feeling Good Handbook,David D. Burns,4,eng,729,124
+692,On Death and Dying,Elisabeth Kübler-Ross,4.16,eng,288,10
+693,Questions and Answers on Death and Dying: A Companion Volume to On Death and Dying,Elisabeth Kübler-Ross,4.07,eng,192,7
+694,The Last Dance: Encountering Death and Dying,Lynne Ann DeSpelder/Albert Lee Strickland,3.77,eng,664,13
+695,Mahatma Gandhi and His Myths: Civil Disobedience  Nonviolence  and Satyagraha in the Real World (Plus Why It's Gandhi  Not Ghandi),Mark Shepard,3.62,eng,46,7
+696,The Seven Habits of Highly Effective People,Stephen R. Covey,4.1,eng,368,233
+697,The 7 Habits of Highly Effective People Personal Workbook,Stephen R. Covey,4.24,eng,192,114
+698,Daily Reflections For Highly Effective People: Living the 7 Habits of Highly Successful People Every Day,Stephen R. Covey,3.9,eng,384,26
+699,Way of the Peaceful Warrior: A Book That Changes Lives,Dan Millman,4.14,en-US,240,1622
+700,Secret of the Peaceful Warrior,Dan Millman/Robert D. San Souci/T. Taylor Bruce,4.15,en-US,32,13
+701,It's Not about the Bike: My Journey Back to Life,Lance Armstrong/Sally Jenkins,3.72,eng,294,1833
+702,23 Days in July: Inside the Tour de France and Lance Armstrong's Record-Breaking Victory,John Wilcockson/Graham   Watson,3.67,eng,344,26
+703,Truman,David McCullough,4.12,eng,1120,1937
+704,The Complete Stories of Truman Capote,Truman Capote/Reynolds Price,4.2,eng,320,217
+705,Breakfast at Tiffany's: A Short Novel and Three Stories,Truman Capote,3.89,eng,162,699
+706,Murder at The Washington Tribune (Capital Crimes  #21),Margaret Truman,3.58,eng,384,78
+707,Murder at Ford's Theatre (Capital Crimes  #19),Margaret Truman,3.74,en-US,376,68
+708,Other Voices  Other Rooms,Truman Capote,3.8,eng,232,656
+709,In Cold Blood,Truman Capote/Scott Brick,4.07,eng,15,133
+710,Emergence: The Connected Lives of Ants  Brains  Cities  and Software,Steven Johnson,3.96,en-US,288,200
+711,Emergence: Labeled Autistic,Temple Grandin/Margaret M. Scariano,4.07,en-GB,200,154
+712,The Emergence of Life on Earth: A Historical and Scientific Overview,Iris Fry,4.02,eng,344,5
+713,The Ghost Stories of Edith Wharton,Edith Wharton/Laszlo Kubinyi,3.89,eng,303,182
+714,The House of Mirth / The Reef / The Custom of the Country / The Age of Innocence,Edith Wharton/R.W.B. Lewis,4.3,eng,1328,29
+715,Collected Stories  1911-1937,Edith Wharton/Maureen Howard,4.25,eng,848,9
+716,Novellas and Other Writings: Madame de Treymes / Ethan Frome / Summer / Old New York / The Mother’s Recompense / A Backward Glance,Edith Wharton/Cynthia Griffin Wolff,4.22,eng,1137,9
+717,The House of Mirth,Edith Wharton,3.95,eng,272,62
+718,Below the Root,Zilpha Keatley Snyder/Alton Raible,4.08,eng,231,9
+719,The Witches of Worm,Zilpha Keatley Snyder,3.69,eng,183,12
+720,The Deeper Meaning of Liff,Douglas Adams/John Lloyd,3.93,eng,192,85
+721,Dirk Gently's Holistic Detective Agency (Dirk Gently #1),Douglas Adams,3.98,eng,6,15
+722,The Letters of J.R.R. Tolkien,J.R.R. Tolkien/Humphrey Carpenter/Christopher Tolkien,4.15,eng,502,171
+723,The History of the Lord of the Rings (The History of Middle-earth #6-9),J.R.R. Tolkien/Christopher Tolkien,4.38,en-US,1680,3
+724,The Languages of Tolkien's Middle-Earth,Ruth S. Noel/J.R.R. Tolkien,3.98,eng,207,74
+725,The Lord of the Rings- 3 volumes set (The Lord of the Rings  #1-3),J.R.R. Tolkien,4.5,en-US,1438,9
+726,Farmer Giles of Ham,J.R.R. Tolkien/Christina Scull/Wayne G. Hammond,3.85,eng,127,225
+727,Tandia,Bryce Courtenay,4.05,eng,905,369
+728,Matthew Flinders' Cat,Bryce Courtenay,3.8,eng,611,161
+729,Solomon's Song (The Potato Factory  #3),Bryce Courtenay,4.01,eng,671,132
+730,An Introduction to Old Norse,E.V. Gordon/A.R. Taylor,4.1,eng,412,7
+731,Cold Counsel: Women in Old Norse Literature and Myth,Sarah M.  Anderson/Karen Swenson,3.68,eng,320,2
+732,Brave Companions: Portraits in History,David McCullough,3.98,eng,240,482
+733,Mornings on Horseback: The Story of an Extraordinary Family  a Vanished Way of Life  and the Unique Child Who Became Theodore Roosevelt,David McCullough,4.12,eng,445,1191
+734,John Adams,David McCullough,4.06,en-US,752,285
+735,The Johnstown Flood,David McCullough,4.11,eng,302,1199
+736,The Path Between the Seas: The Creation of the Panama Canal  1870-1914,David McCullough,4.2,eng,697,1042
+737,The Bone Collector (Lincoln Rhyme  #1),Jeffery Deaver,4.19,eng,528,1753
+738,The Bone Collector's Son,Paul Yee,3.27,eng,137,19
+739,El Coleccionista De Huesos (Lincoln Rhyme  #1),Jeffery Deaver,4.19,spa,640,2
+740,Moby Dick,Herman Melville/William Hootkins,3.5,eng,25,17
+741,Moby-Dick,Jan Needle/Patrick Benson/Herman Melville,3.71,eng,192,16
+742,Moby Dick,Herman Melville/William Hootkins,3.5,eng,6,885
+743,Moby-Dick,Herman Melville/Carl F. Hovde,3.5,eng,707,207
+744,Herman Melville's Moby-Dick: A Routledge Study Guide and Sourcebook,Michael J. Davey/Duncan Wu,3.61,eng,208,7
+745,Moby Dick: or The White Whale (Oxford Illustrated Classics),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,3.82,eng,104,5
+746,Melville's Moby Dick: An American Nekyia (Studies in Jungian Psychology by Jungian Analysts),Edward F. Edinger,3.93,eng,156,4
+747,Moby Dick: Or  the White Whale (Oxford Illustrated Classics Series),Geraldine McCaughrean/Victor G. Ambrus/Herman Melville,3.82,eng,102,0
+748,Melville and the politics of identity: From *King Lear* to *Moby-Dick*,Julian Markels,3.33,eng,164,0
+749,"Unpainted to the Last: ""Moby Dick"" and Twentieth-century American Art",Elizabeth A. Schultz,4.28,eng,400,1
+750,Double Tap (Paul Madriani  #8),Steve Martini,3.92,en-US,401,159
+751,The List,Steve Martini,3.96,eng,451,141
+752,Witches Abroad (Discworld  #12; Witches #3),Terry Pratchett,4.22,eng,374,1272
+753,The Innocents Abroad,Mark Twain/Grover Gardner,3.86,eng,560,693
+754,Teaching English Abroad,Susan  Griffith,3.57,eng,576,6
+755,Theocritus: Select Poems: Select Poems,Theocritus/Kenneth James Dover,3,grc,395,1
+756,The Shield. Catalogue of Women. Other Fragments. (Hesiod II),Hesiod/Glenn W. Most,4.03,eng,434,1
+757,Death and the King's Horseman,Wole Soyinka/Simon Gikandi,3.76,en-US,254,30
+758,The Time Machine,H.G. Wells/Patrick Parrinder/Steven McLean/Marina Warner,3.89,eng,104,301
+759,The Time Machine,H.G. Wells/Cynthia Brantley Johnson/Benjamin Beard,3.89,eng,150,36
+760,The Ultimate Time Machine: A Remote Viewer's Perception of Time & Predictions for the New Millennium,Joseph McMoneagle,3.59,en-GB,275,6
+761,The Time Machine,H.G. Wells/Melvin Burgess,3.89,eng,123,35
+762,The Complete Short Stories,H.G. Wells/John R. Hammond,4.14,eng,864,33
+763,Selected Stories,H.G. Wells/Ursula K. Le Guin,3.93,en-US,432,11
+764,Tono-Bungay,H.G. Wells/Edward Mendelson/Patrick Parrinder,3.42,eng,414,111
+765,The Name of the Rose (Everyman's Library (Cloth)),Umberto Eco,4.12,en-US,560,113
+766,In the Name of Jesus: Reflections on Christian Leadership,Henri J.M. Nouwen,4.34,en-US,120,410
+767,Blood Done Sign My Name: A True Story,Timothy B. Tyson,4.15,eng,368,403
+768,Blindness,José Saramago/Giovanni Pontiero,4.11,eng,326,7778
+769,The Gospel According to Jesus Christ,José Saramago/Giovanni Pontiero,4.29,eng,377,107
+770,All the Names,José Saramago/Margaret Jull Costa,3.89,eng,245,734
+771,The Tale of the Unknown Island,José Saramago/Peter Sís/Margaret Jull Costa,3.89,eng,64,242
+772,Baltasar and Blimunda,José Saramago/Giovanni Pontiero,3.92,eng,346,284
+773,The Cave,José Saramago/Margaret Jull Costa,3.84,eng,307,548
+774,The Stone Raft,José Saramago/Giovanni Pontiero,3.8,en-US,292,30
+775,The Year of the Death of Ricardo Reis,José Saramago/Giovanni Pontiero,4.02,eng,384,191
+776,El hombre duplicado,José Saramago/Pilar del Río,3.89,spa,380,106
+777,Ensayo sobre la lucidez,José Saramago/Pilar del Río,3.8,spa,461,124
+778,La caverna,José Saramago/Pilar del Río,3.84,spa,441,69
+779,The History of the Siege of Lisbon,José Saramago/Giovanni Pontiero,3.81,eng,314,62
+780,Las intermitencias de la muerte,José Saramago/Pilar del Río,4,spa,274,306
+781,The Treasured Writings of Kahlil Gibran,Kahlil Gibran,4.42,eng,902,45
+782,The Prophet,Kahlil Gibran/جبران خليل جبران/Jihad El,4.23,eng,127,5418
+783,A Tear and a Smile,Kahlil Gibran/جبران خليل جبران/H.M. Nahmad/Robert Hillyer,4.03,eng,228,104
+784,On the Road,Jack Kerouac,3.63,eng,320,39
+785,On the Road,Jack Kerouac/Ann Charters,3.63,eng,281,502
+786,De Kooning: An American Master,Mark Stevens/Annalyn Swan,4.11,eng,732,105
+787,Willem de Kooning: Late Paintings,Julie Sylvester/David Sylvester,5,eng,83,0
+788,Aké: The Years of Childhood,Wole Soyinka,3.93,eng,230,90
+789,Ready for Anything: 52 Productivity Principles for Getting Things Done,David    Allen,3.85,eng,165,178
+790,The Facilitator's Book of Questions: Tools for Looking Together at Student and Teacher Work,David  Allen/Tina Blythe/Gene Thompson-Grove,4,eng,142,4
+791,Sun Tzu and the Art of Business: Six Strategic Principles for Managers,Sun Tzu/Mark McNeilly,3.89,eng,272,13
+792,Marketing Warfare,Al Ries/Jack Trout,4.11,eng,216,59
+793,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,3.97,eng,301,11898
+794,Unleashing the Ideavirus: Stop Marketing AT People! Turn Your Ideas into Epidemics by Helping Your Customers Do the Marketing thing for You.,Seth Godin/Malcolm Gladwell,3.98,en-US,234,88
+795,The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business,Clayton M. Christensen/L.J. Ganser,3.99,eng,286,752
+796,Great Expectations,Charles Dickens/David Trotter/Charlotte Mitchell,3.77,eng,512,668
+797,Great Expectations: Authoritative Text  Backgrounds  Contexts  Criticism,Charles Dickens/Edgar Rosenberg,3.77,eng,776,38
+798,Luther and Erasmus: Free Will and Salvation (Library of Christian Classics),Erasmus/Martin Luther/Philip S. Watson/E. Gordon Rupp,3.8,eng,364,13
+799,To Kill a Mockingbird,Harper Lee,4.27,eng,323,898
+800,To Kill a Mockingbird,Harper Lee/Sissy Spacek,4.27,eng,11,180
+801,To Kill a Mockingbird,Harper Lee,4.27,en-US,323,34
+802,The Wealthy Barber: Everyone's Common-Sense Guide to Becoming Financially Independent,David H. Chilton,4.02,eng,199,4
+803,A Modest Proposal and Other Satirical Works,Jonathan Swift,4.05,eng,64,141
+804,Gulliver's Travels / A Modest Proposal,Jonathan Swift/Jesse Gale,3.79,eng,416,50
+805,Empire 2.0: A Modest Proposal for a United States of the West (Terra Nova),Xavier de C./Xavier de C./Joseph Rowe,4.67,eng,144,0
+806,The Bostonians,Henry James/R.D. Gooder,3.59,eng,504,12
+807,Novels 1896–1899: The Other House / The Spoils of Poynton / What Maisie Knew / The Awkward Age,Henry James/Myra Jehlen,4.28,eng,1035,4
+808,Novels 1901–1902: The Sacred Fount / The Wings of the Dove,Henry James/Leo Bersani,4.63,eng,713,3
+809,Complete Stories 1892–1898,Henry James/John Hollander/David Bromwich,4.22,eng,958,7
+810,The Canterbury Tales,Geoffrey Chaucer/Nevill Coghill,3.49,eng,504,2365
+811,The Canterbury Tales,Geoffrey Chaucer/David  Wright,3.49,eng,465,22
+812,The Canterbury Tales (original-spelling edition),Geoffrey Chaucer/Jill Mann,3.49,enm,1254,59
+813,Chaucer's Canterbury Tales (Selected): An Interlinear Translation,Geoffrey Chaucer/Vincent Foster Hopper,3.8,eng,530,5
+814,Oxford Guides to Chaucer: The Canterbury Tales,Helen  Cooper,4.02,eng,456,4
+815,Love Visions,Geoffrey Chaucer/Brian Stone,3.61,eng,272,6
+816,Chaucer's Canterbury Tales,Geoffrey Chaucer,3.49,eng,383,5
+817,The Riverside Chaucer,Geoffrey Chaucer/Larry Dean Benson/F.N. Robinson,4.18,enm,1327,152
+818,The Portable Chaucer,Geoffrey Chaucer/Theodore Morrison,3.86,eng,611,8
+819,Salt: A World History,Mark Kurlansky,3.74,eng,484,3012
+820,Salt in His Shoes: Michael Jordan in Pursuit of a Dream,Deloris Jordan/Kadir Nelson/Roslyn M. Jordan,4.2,eng,32,173
+821,The Book of Salt,Monique Truong,3.52,eng,261,629
+822,Cities of Salt (مدن الملح #1),Abdul Rahman Munif/Peter Theroux,4.13,eng,627,105
+823,The Years of Rice and Salt,Kim Stanley Robinson,3.73,eng,763,995
+824,Illuminations: Essays and Reflections,Walter Benjamin/Hannah Arendt/Harry Zohn/Leon Wieseltier,4.29,eng,288,194
+825,Saul Steinberg: Illuminations,Saul Steinberg/Joel Smith/Charles Simic,4.51,eng,288,5
+826,Advanced Global Illumination,Philip Dutre,4.5,eng,366,2
+827,Snow Falling On Cedars,David Guterson,3.83,eng,404,46
+828,The Lost Boy (Dave Pelzer #2),Dave Pelzer,4.1,eng,331,2513
+829,Real Boys: Rescuing Our Sons from the Myths of Boyhood,William S. Pollack/Mary Pipher,3.83,en-US,480,128
+830,Microserfs,Douglas Coupland,3.88,eng,371,38
+831,New Media Language,Jean Aitchison/Diana M. Lewis,3,eng,209,0
+832,The Denial of Death,Ernest Becker/Sam Keen/Daniel Goleman,4.16,eng,336,635
+833,A People's History of the United States,Howard Zinn,4.08,eng,729,4711
+834,A People's History of the United States,Howard Zinn/Kathy Emery/Ellen Gordon Reeves,4.08,eng,619,3
+835,A People's History of the United States: The Civil War to the Present,Howard Zinn/Kathy Emery/Ellen Gordon Reeves,4,eng,496,0
+836,Graphic Design: A Concise History (World of Art),Richard Hollis,4,en-US,232,12
+837,Immigrant Acts: On Asian American Cultural Politics,Lisa Lowe,4,eng,272,9
+838,The Old Way of Seeing: How Architecture Lost Its Magic - And How to Get It Back,Jonathan Hale,3.92,eng,256,12
+839,The Crying of Lot 49,Thomas Pynchon,3.69,eng,152,3332
+840,E=mc²: A Biography of the World's Most Famous Equation,David Bodanis,4.09,eng,337,321
+841,Passionate Minds,David Bodanis,4.1,en-US,373,112
+842,Christian Mythmakers: C.S. Lewis  Madeleine L'Engle  J.R.R. Tolkien  George MacDonald  G.K. Chesterton  Charles Williams  Dante Alighieri  John Bunyan  Walter Wangerin  Robert Siegel  and Hannah Hurnard,Rolland Hein/Clyde S. Kilby,3.93,eng,303,18
+843,A House Like a Lotus (O'Keefe Family  #3),Madeleine L'Engle,3.76,eng,307,163
+844,The Rock That Is Higher: Story as Truth,Madeleine L'Engle,4.12,eng,320,48
+845,The Glorious Impossible,Madeleine L'Engle/Giotto di Bondone,4.25,eng,64,38
+846,A Full House: An Austin Family Christmas (Austin Family  #5.6),Madeleine L'Engle/Mary Chambers,3.98,eng,48,4
+847,A Circle of Quiet (Crosswicks Journals #1),Madeleine L'Engle,4.21,en-CA,246,506
+848,The Birth of Tragedy and Other Writings,Friedrich Nietzsche/Raymond Geuss/Ronald Speirs,4.04,eng,204,23
+849,The Birth of Tragedy/The Genealogy of Morals,Friedrich Nietzsche/Francis Golffing,4.01,en-US,320,42
+850,The Birth of Tragedy,Friedrich Nietzsche,3.98,eng,84,0
+851,The Birth of Tragedy,Friedrich Nietzsche/Michael Tanner/Shaun Whiteside,3.98,en-US,160,301
+852,Birth Of A Tragedy: Kashmir 1947,Alastair Lamb,4,eng,179,2
+853,The Tragedy of Pudd'nhead Wilson/Those Extraordinary Twins,Mark Twain/David Lionel Smith/Sherley Anne Williams,3.79,eng,512,58
+854,The Tragedy of Pudd'nhead Wilson,Mark Twain/Michael Prichard,3.79,eng,0,0
+855,Bridge to Terabithia,Katherine Paterson/Donna Diamond,4,en-US,191,152
+856,Literature Circle Guide: Bridge to Terabithia: Everything You Need For Successful Literature Circles That Get Kids Thinking  Talking  Writing—and Loving Literature,Tara MacCarthy,5,eng,32,1
+857,Bread and Roses  Too,Katherine Paterson,3.76,eng,275,294
+858,The Invisible Child,Katherine Paterson,4.27,eng,266,27
+859,A Short History of Decay,Emil M. Cioran/Richard Howard,4.25,eng,186,99
+860,Scholar of Decay (Ravenloft  #14),Tanya Huff,3.46,eng,313,1
+861,Girl with a Pearl Earring,Tracy Chevalier,3.88,eng,233,127
+862,The Golden Tulip,Rosalind Laker,3.94,eng,585,4
+863,Burning Bright,Tracy Chevalier,3.36,eng,320,1113
+864,Falling Angels,Tracy Chevalier,3.58,eng,336,1214
+865,The Virgin Blue,Tracy Chevalier,3.66,eng,304,1588
+866,Wenn Engel fallen,Tracy Chevalier,3.58,ger,384,1
+867,Tom Hunter: Living in Hell and Other Stories,Tom Hunter/Tracy Chevalier/Colin Wiggins,3.64,en-GB,80,0
+868,Bleach  Volume 15,Tite Kubo,4.42,eng,208,76
+869,Bleach  Volume 01,Tite Kubo,4.22,eng,200,1063
+870,Bleach  Volume 14,Tite Kubo,4.38,eng,208,79
+871,Bleach  Volume 11,Tite Kubo,4.36,eng,208,84
+872,Bleach  Volume 12,Tite Kubo,4.36,eng,208,86
+873,DEATH NOTE デスノート 1,Tsugumi Ohba/Takeshi Obata/大場 つぐみ/小畑 健,4.43,jpn,195,38
+874,Death Note  Vol. 4: 恋心 (Death Note  #4),Tsugumi Ohba/Takeshi Obata,4.39,jpn,204,13
+875,Death Note  Vol. 3: 激走 (Death Note  #3),Tsugumi Ohba/Takeshi Obata,4.43,jpn,194,11
+876,Love Artist (Harlequin Romance #2860),Valerie Parv,3.25,eng,187,1
+877,Perfume: The Story of a Murderer,Patrick Süskind/John E. Woods,4.02,eng,255,191
+878,Das Parfum. Die Geschichte eines Mörders,Patrick Süskind,4.02,ger,321,343
+879,Three Stories and a Reflection,Patrick Süskind,3.57,eng,128,3
+880,The Pigeon,Patrick Süskind,3.68,eng,77,423
+881,The Story of Mr Sommer,Patrick Süskind/Jean-Jacques Sempé,3.84,eng,128,104
+882,Bleach―ブリーチ― 1 [Burīchi 1] (Bleach  #1),Tite Kubo,4.22,jpn,189,3
+883,Bleach  Tome 1: The Death and the Strawberry,Tite Kubo,4.22,fre,192,4
+884,Escape from Fire Mountain (World of Adventure  #3),Gary Paulsen/Steve Chorney,3.67,eng,80,17
+885,How Angel Peterson Got His Name,Gary Paulsen,3.93,eng,111,218
+886,Tucket's Travels: Francis Tucket's Adventures In The West  1847-1849 (The Tucket Adventures  #1-5),Gary Paulsen,4.44,en-US,560,46
+887,Chicago Blues: The City and the Music,Mike  Rowe/Ronald Radano,3.92,eng,226,2
+888,Winterdance: The Fine Madness of Running the Iditarod,Gary Paulsen,4.26,eng,272,830
+889,Brian's Winter,Gary Paulsen,4.01,en-US,133,12
+890,Robinson Crusoe (Robinson Crusoe #1),Daniel Defoe/Virginia Woolf,3.67,eng,320,4131
+891,Robinson Crusoe,Daniel Defoe/John J. Richetti,3.67,eng,286,142
+892,Robinson Crusoe,Daniel Defoe/Michael Shinagel,3.67,en-US,436,63
+893,Robinson Crusoe,Daniel Defoe/Avi,3.67,eng,482,32
+894,Robinson Crusoe,Daniel Defoe,3.67,eng,288,18
+895,A General History of the Pyrates,Daniel Defoe/Manuel Schonhorn/Charles   Johnson,3.72,eng,733,36
+896,Huck Finn & Tom Sawyer among the Indians & Other Unfinished Stories (Mark Twain Library),Mark Twain/Paul Baender/Dahlia Armon/Walter Blair,3.85,eng,389,0
+897,Huck Finn and Tom Sawyer Among the Indians,Mark Twain/Lee Nelson,3.57,eng,277,29
+898,Huck Finn/Pudd'nhead Wilson/No 44 Mysterious Stranger other Writings,Mark Twain/Guy Cardwell/Louis J. Budd,4.06,en-US,808,3
+899,The Adventures of Huckleberry Finn (Adventures of Tom and Huck  #2),Mark Twain/Guy Cardwell/John Seelye/Walter Trier,3.82,eng,327,11391
+900,Adventures of Huckleberry Finn,Mark Twain/E.W. Kemble,3.82,eng,368,17
+901,Adventures of Huckleberry Finn,Mark Twain/George Saunders,3.82,eng,244,37
+902,The Annotated Huckleberry Finn,Mark Twain/Michael Patrick Hearn/E.W. Kemble,3.82,eng,656,18
+903,The Wit and Wisdom of Mark Twain,Mark Twain,4.2,eng,64,53
+904,Mark Twain's Helpful Hints for Good Living: A Handbook for the Damned Human Race,Mark Twain/Lin Salamo/Victor Fischer/Michael B. Frank,3.86,eng,221,71
+905,The Complete Short Stories of Mark Twain,Mark Twain/Charles Neider,4.28,eng,848,142
+906,The Autobiography of Mark Twain,Mark Twain/Charles Neider,4.05,eng,508,209
+907,Collected Tales  Sketches  Speeches  & Essays 1891–1910,Mark Twain/Louis J. Budd,4.39,eng,1050,10
+908,Lost Horizon,James Hilton,3.92,eng,241,955
+909,Louisa May Alcott's Christmas Treasury,Louisa May Alcott/C. Michael Dudash/Stephen W. Hines,3.96,eng,282,44
+910,My Secret Garden: Women's Sexual Fantasies,Nancy Friday,3.68,eng,361,123
+911,The Secret Garden,Frances Hodgson Burnett,4.13,eng,331,11796
+912,The Secret Garden,Frances Hodgson Burnett/Sandra M. Gilbert,4.13,eng,281,116
+913,The Secret Garden,Martha Hailey DuBose/Frances Hodgson Burnett/Lucy Corvino/Arthur Pober,4.33,eng,160,76
+914,The Secret Garden,Frances Hodgson Burnett/Alison Lurie,4.13,en-GB,288,13
+915,A Little Princess,Frances Hodgson Burnett/Nancy Bond,4.2,eng,242,4392
+916,Waiting for the Party: The Life of Frances Hodgson Burnett  1849-1924,Ann Thwaite,3.8,eng,274,7
+917,The Secret Garden Cookbook: Recipes Inspired by Frances Hodgson Burnett's The Secret Garden,Amy Cotler/Frances Hodgson Burnett/Prudence See,4.3,eng,128,23
+918,Basic Economics: A Citizen's Guide to the Economy,Thomas Sowell,4.32,eng,448,475
+919,Basic Economics: A Common Sense Guide to the Economy,Thomas Sowell,4.32,eng,627,43
+920,Black Rednecks and White Liberals,Thomas Sowell,4.38,eng,372,301
+921,Applied Economics: Thinking Beyond Stage One,Thomas Sowell,4.14,eng,256,122
+922,Knowledge And Decisions,Thomas Sowell,4.39,eng,422,47
+923,A Conflict of Visions: Ideological Origins of Political Struggles,Thomas Sowell,4.31,eng,304,166
+924,Sir Gawain and the Green Knight,Selina Shirley Hastings/Juan Wijngaard,3.91,eng,29,9
+925,Alcoholics Anonymous,Alcoholics Anonymous,4.45,eng,250,0
+926,Alcoholics Anonymous,Alcoholics Anonymous,4.45,en-US,576,30
+927,The Twelve Steps & Twelve Traditions of Overeaters Anonymous,Overeaters Anonymous,4.36,en-US,221,10
+928,The Natural Way to Draw,Kimon Nicolaides/Mamie Harmon,3.9,en-US,240,80
+929,Natural Health  Natural Medicine,Andrew Weil,4.11,en-US,448,41
+930,The Fixer,Bernard Malamud/Jonathan Safran Foer,3.96,eng,335,409
+931,The Complete Stories,Bernard Malamud/Robert Giroux,4.22,en-US,656,51
+932,The Assistant,Bernard Malamud/Jonathan Rosen,3.89,en-US,246,319
+933,Conversations with Bernard Malamud (Literary Conversations),Lawrence M. Lasher,4,eng,184,0
+934,The Tenants,Bernard Malamud/Aleksandar Hemon,3.65,eng,248,50
+935,Enchanted April: Acting Edition,Matthew Barber/Elizabeth von Arnim,3.61,eng,73,6
+936,April  May und June,Elizabeth von Arnim,3.88,ger,88,0
+937,A Room with a View,E.M. Forster,3.91,eng,119,3422
+938,A Room with a View / Howards End,E.M. Forster/Benjamin DeMott,4.1,eng,449,113
+939,E.M. Forster: Critical Guidebook,Lionel Trilling/E.M. Forster,3.51,eng,208,0
+940,The Longest Journey,E.M. Forster/Gilbert Adair/Elizabeth Heine,3.48,eng,396,125
+941,Howards End,E.M. Forster,3.96,eng,246,1437
+942,Maurice,E.M. Forster,4.03,eng,256,1005
+943,E. M. Forster: A Life,P.N. Furbank,4.14,eng,648,11
+944,Howards End,E.M. Forster,3.96,eng,352,26
+945,The Sixteen Pleasures,Robert Hellenga,3.59,eng,384,336
+946,Revolutionary Characters: What Made the Founders Different,Gordon S. Wood,3.97,eng,336,187
+947,The Rescue (Kidnapped  #3),Gordon Korman,4.11,eng,140,117
+948,Hunting the Hunter (On the Run  #6),Gordon Korman,4.21,eng,151,85
+949,Public Enemies (On The Run  #5),Gordon Korman,4.19,eng,150,76
+950,Runaway Bride,Deborah  Gordon,4.25,eng,390,0
+951,The Bridge over the Drina,Ivo Andrić/William H. McNeill,4.33,eng,314,35
+952,Drina Dances in Paris,Jean Estoril,4.16,eng,194,4
+953,Drina Ballerina,Jean Estoril,4.16,eng,188,1
+954,Le Pont sur la Drina,Ivo Andrić/Pascale Delpech,4.33,fre,384,10
+955,Drina Dances in Italy,Jean Estoril,4.08,eng,191,0
+956,Drina Goes on Tour,Jean Estoril/Mabel Esther Allan,4.26,eng,188,7
+957,Drina Dances in Madeira,Jean Estoril/Mabel Esther Allan,4.09,eng,164,6
+958,Phaedrus/Apology/Crito/Symposium,Plato/Benjamin Jowett,3,en-US,144,0
+959,The Dialogues of Plato  Volume 1: Euthyphro  Apology  Crito  Meno  Gorgias  Menexenus,Plato/Reginald E. Allen,4.17,eng,352,11
+960,Gorgias/Timaeus,Plato/Benjamin Jowett,3.74,eng,256,5
+961,Minor Works: On Colours/On Things Heard/Physiognomics/On Plants/On Marvellous Things Heard/Mechanical Problems/On Indivisible Lines/The...Gorgias,Aristotle/W.S. Hett,4.57,grc,528,0
+962,Aristophanes I: Clouds/Wasps/Birds,Aristophanes/Peter Meineck/Ian C. Storey,3.77,eng,480,9
+963,The Trojan Women,Euripides/Gilbert Murray,3.89,eng,80,126
+964,Greek Tragedies  Volume 2,David Grene/Richmond Lattimore/Aeschylus/Sophocles/Euripides,4.29,eng,304,12
+965,Moloka'i (Moloka'i #1),Alan Brennert,4.17,eng,405,8192
+966,Teaching with the Brain in Mind,Eric Jensen,4.11,eng,186,49
+967,Introducing Mind and Brain (Introducing...),Angus Gellatly/Oscar Zárate/Richard Appignanesi,3.54,en-GB,176,1
+968,Eva Luna,Isabel Allende/Margaret Sayers Peden,3.97,eng,320,23
+969,The Stories of Eva Luna,Isabel Allende,3.97,eng,352,375
+970,Diez Cuentos de Eva Luna Con Guia de Comprension y Repaso de Gramatica,Isabel Allende/Richard D. Woods/Kenneth M. Taggart,3.97,eng,256,1
+971,El bosque de los pigmeos,Isabel Allende,3.77,spa,304,46
+972,Inés of My Soul,Isabel Allende/Margaret Sayers Peden,3.93,eng,321,1075
+973,La casa de los espíritus,Isabel Allende,4.23,spa,454,38
+974,El plan infinito,Isabel Allende,3.72,spa,336,33
+975,El reino del dragón de oro,Isabel Allende,3.84,spa,432,51
+976,City of the Beasts (Eagle and Jaguar  #1),Isabel Allende/Margaret Sayers Peden,3.71,eng,408,778
+977,Self,Yann Martel,3.43,eng,331,146
+978,Die Brücke über die Drina,Ivo Andrić/Ernst E. Jonas,4.33,ger,407,0
+979,Drina Dances in Switzerland,Jean Estoril/Jenny Sanders,4.02,eng,188,1
+980,The Story of Salt,Mark Kurlansky/S.D. Schindler,4.08,eng,48,85
+981,Nonviolence: Twenty-Five Lessons from the History of a Dangerous Idea,Mark Kurlansky/Dalai Lama XIV,4,eng,203,96
+982,Boogaloo on 2nd Avenue,Mark Kurlansky,3.17,eng,319,26
+983,Cod: A Biography of the Fish That Changed the World,Mark Kurlansky,3.91,eng,294,104
+984,1968: The Year That Rocked the World,Mark Kurlansky,3.78,eng,480,248
+985,A Chosen Few: The Resurrection of European Jewry (Reader's Circle),Mark Kurlansky,3.87,eng,456,2
+986,The Basque History of the World: The Story of a Nation,Mark Kurlansky,3.85,eng,400,329
+987,The Cod's Tale,Mark Kurlansky/S.D. Schindler,3.91,eng,48,25
+988,Open City 6: The Only Woman He Ever Left,Open City Magazine/James Purdy/Daniel Pinchbeck/Michael Cunningham/Deborah Garrison/Rem Koolhaas/Rick Moody/Strawberry Saroyan/Debra Garrison,0,eng,200,0
+989,Harry Potter Y La Piedra Filosofal (Harry Potter  #1),J.K. Rowling,4.47,spa,254,12
+990,Angle of Repose,Wallace Stegner/Jackson J. Benson,4.27,eng,557,146
+991,Don't Make Me Think: A Common Sense Approach to Web Usability,Steve Krug,4.25,en-US,201,641
+992,Girlfriend in a Coma,Douglas Coupland,3.62,eng,288,612
+993,Corelli's Mandolin,Louis de Bernières,3.98,eng,437,1791
+994,Kiffe Kiffe Tomorrow,Faïza Guène/Sarah    Adams,3.4,eng,179,131
+995,Our Kind of People: Inside America's Black Upper Class,Lawrence Otis Graham,3.72,en-US,406,117
+996,The Senator and the Socialite: The True Story of America's First Black Dynasty,Lawrence Otis Graham,3.95,eng,480,29
+997,Temptations,Otis Williams/Patricia Romanowski,4.19,eng,304,16
+998,The Thorn Birds,Colleen McCullough,4.23,eng,673,66
+999,Caesar (Masters of Rome  #5),Colleen McCullough,4.37,eng,928,120
+1000,Lucas Teste,Lucas teste,4.78,eng,2690,164
