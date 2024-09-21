@@ -1,0 +1,214 @@
+{
+	"info": {
+		"_postman_id": "a86e0b2e-2ed9-4952-8e5d-b9d02e7f9fb6",
+		"name": "Documentação REST API Livros: CRUD, Requisições e Testes",
+		"description": "# Documentação API de Livros!\n\nEssa documentação possui um guia de como usar as operações básicas do CRUD (GET, POST, PUT, DELETE) da API de Livros, variáveis e testes.\n\n## **Endpoints:**\n\n#### **1\\. Bem-vindo**\n\nA URL base para acessar a página inicial da API é:\n\n[https://flaskapi-g3n8.onrender.com/](https://flaskapi-g3n8.onrender.com/)\n\n#### **2\\. Listar todos livros - GET /items**\n\nEste endpoint retorna uma lista com todos os livros disponíveis.\n\n- **URL:** [https://flaskapi-g3n8.onrender.com/items](https://flaskapi-g3n8.onrender.com/items)\n    \n- **Método:** GET\n    \n- **Exemplo de resposta:**\n    \n\n<img src=\"https://content.pstmn.io/0a22da2e-0996-4998-a061-1b6b359996db/aW1hZ2UucG5n\" width=\"537\" height=\"292\">\n\nObserve no postman que quando der certo o código retornado é o satus 200, que significa que a requisição está ok.\n\n### 3\\. Consultar um livro pelo ID - GET /items/{id}\n\nEste endpoint retorna as informações de um livro específico, com base no seu bookId.\n\n- [https://flaskapi-g3n8.onrender.com/items/{id}](https://flaskapi-g3n8.onrender.com/items)\n    \n- **Método:** GET\n    \n- **Parâmetro de URL:**\n    \n    - id - O ID do livro a ser consultado.\n        \n    - Exemplo: [/items/1](https://flaskapi-g3n8.onrender.com/items)\n        \n- **Respostas:**\n    \n\n1. **Status Code:** 200 (se encontrado)  \n    {  \n    \"bookID\": 1,  \n    \"title\": \"Book Title 1\",  \n    \"authors\": \"Author 1\",  \n    \"average_rating\": 4.5,  \n    \"language_code\": \"pt\",  \n    \"num_pages\": 350,  \n    \"text_reviews_count\": 120  \n    }\n    \n2. **Status Code:** 404 Not Found (se não encontrado)  \n    {  \n    \"error\": \"Item not found\"  \n    }\n    \n\n### 4\\. Adicionar um novo livro - POST /items\n\nEste endpoint permite adicionar um novo livro à coleção.\n\n- **URL:** /items\n    \n- **Método:** POST\n    \n- Corpo da requisição (JSON):{  \n    \"title\": \"New Book Title\",  \n    \"authors\": \"New Author\",  \n    \"average_rating\": 4.8,  \n    \"language_code\": \"en\",  \n    \"num_pages\": 400,  \n    \"text_reviews_count\": 100  \n    }\n    \n\n**Respostas:**\n\n1. **Status Code:** 201 Created  \n    {  \n    \"bookID\": 3,  \n    \"title\": \"New Book Title\",  \n    \"authors\": \"New Author\",  \n    \"average_rating\": 4.8,  \n    \"language_code\": \"en\",  \n    \"num_pages\": 400,  \n    \"text_reviews_count\": 100  \n    }\n    \n\n### 5\\. Atualizar um livro existente - PUT /items/{id}\n\nEste endpoint permite atualizar os detalhes de um livro existente.\n\n- **URL:** /items/{id}\n    \n- **Método:** PUT\n    \n- **Parâmetro de URL:**\n    \n    - id - O ID do livro a ser atualizado.\n        \n    - Exemplo: [/items/1](https://flaskapi-g3n8.onrender.com/items)\n        \n- **Corpo da requisição (JSON):**\n    \n    - Envie apenas os campos que deseja atualizar:  \n        {  \n        \"authors\": \"Updated Authors\"  \n        }\n        \n\n**Respostas:**\n\n1. **Status Code:** 200 Ok  \n    {  \n    \"bookID\": 1,  \n    \"title\": \"Updated Book Title\",  \n    \"authors\": \"Updated Author\",  \n    \"average_rating\": 4.9,  \n    \"language_code\": \"fr\",  \n    \"num_pages\": 500,  \n    \"text_reviews_count\": 150  \n    }\n    \n2. **Status Code:** 404 Not Found (se o livro não for encontrado)  \n    {  \n    \"error\": \"Item not found\"  \n    }\n    \n\n### 6\\. Deletar um livro - DELETE /items/{id}\n\nEste endpoint permite remover um livro da coleção com base no seu ID.\n\n- **Método:** DELETE\n    \n- **URL:** /items/{id}\n    \n- **Parâmetro de URL:**\n    \n    - id - O ID do livro a ser deletado.\n        \n\n**Resposta:**\n\n1. **Status Code:** 200 Ok (se deletado com sucesso)  \n    {  \n    \"bookID\": 1,  \n    \"title\": \"Deleted Book Title\",  \n    \"authors\": \"Deleted Author\",  \n    \"average_rating\": 4.9,  \n    \"language_code\": \"en\",  \n    \"num_pages\": 500,  \n    \"text_reviews_count\": 150  \n    }\n    \n2. **Status Code:** 404 Not Found (Se livro não encontrado)  \n    {  \n    \"error\": \"Item not found\"  \n    }",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34205441",
+		"_collection_link": "https://www.postman.com/magrito/workspace/api-de-livros/collection/34205441-a86e0b2e-2ed9-4952-8e5d-b9d02e7f9fb6?action=share&source=collection_link&creator=34205441"
+	},
+	"item": [
+		{
+			"name": "Get Livros",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://flaskapi-g3n8.onrender.com/items",
+					"protocol": "https",
+					"host": [
+						"flaskapi-g3n8",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"items"
+					]
+				},
+				"description": "Retorna todos livros ou um livro pelo seu id\n\n[https://flaskapi-g3n8.onrender.com/items](https://flaskapi-g3n8.onrender.com/items)\n\n[https://flaskapi-g3n8.onrender.com/items/{id}](https://flaskapi-g3n8.onrender.com/items)\n\nA successful GET response will have a `200 OK` status, and should include some kind of response body - for example, HTML web content or JSON data."
+			},
+			"response": []
+		},
+		{
+			"name": "Post Novo Livro",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Successful POST request\", function () {",
+							"    pm.expect(pm.response.code).to.be.oneOf([200, 201]);",
+							"});",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\n        \"authors\": \"Novo Livro3\",\n        \"average_rating\": 4.02,\n        \"language_code\": \"eng\",\n        \"num_pages\": 2502,\n        \"text_reviews_count\": 180,\n        \"title\": \"New Livro\"\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://flaskapi-g3n8.onrender.com/items",
+					"protocol": "https",
+					"host": [
+						"flaskapi-g3n8",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"items"
+					]
+				},
+				"description": "Cria um novo livro passando um body\n\nA successful POST request typically returns a `200 OK` or `201 Created` response code."
+			},
+			"response": []
+		},
+		{
+			"name": "Update Livro",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Successful PUT request\", function () {",
+							"    pm.expect(pm.response.code).to.be.oneOf([200, 201, 204]);",
+							"});",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"authors\": \"Lucas Change\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://flaskapi-g3n8.onrender.com/items/1000",
+					"protocol": "https",
+					"host": [
+						"flaskapi-g3n8",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"items",
+						"1000"
+					]
+				},
+				"description": "Atualiza uma ou mais informações desejadas passando id como parâmetro e um body\n\nA successful PUT request typically returns a `200 OK`, `201 Created`, or `204 No Content` response code."
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Livro",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Successful DELETE request\", function () {",
+							"    pm.expect(pm.response.code).to.be.oneOf([200, 202, 204]);",
+							"});",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://flaskapi-g3n8.onrender.com/items/1001",
+					"protocol": "https",
+					"host": [
+						"flaskapi-g3n8",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"items",
+						"1001"
+					]
+				},
+				"description": "Deleta um livro passando id como parâmetro\n\nA successful DELETE request typically returns a `200 OK`, `202 Accepted`, or `204 No Content` response code."
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "id",
+			"value": "1"
+		},
+		{
+			"key": "base_url",
+			"value": "https://postman-rest-api-learner.glitch.me/"
+		}
+	]
+}
